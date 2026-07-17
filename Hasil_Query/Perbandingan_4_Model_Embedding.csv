@@ -1,0 +1,21 @@
+﻿Query,BGE-M3_Name,BGE-M3_Similarity,E5-Large_Name,E5-Large_Similarity,MPNet_Name,MPNet_Similarity,MiniLM_Name,MiniLM_Similarity,Model_Terbaik
+Masjid Agung,Masjid agung,0.7649,masjid Besar,0.9281,Masjid Agung Demak,0.9778,Al-Mabrur Grand Mosque,0.9119,MPNet
+Masjid Istiqlal,Masjid Istiqlal,0.8572,Masjid Istiqlal,0.9648,Masjid Istiqlal,0.9922,Masjid Istiqlal,0.9446,MPNet
+Masjid Raya Bandung,Masjid bandung,0.744,Masjid Agung Raya Bandung,0.9121,Masjid bandung,0.8947,KUBAH MASJID BANDUNG,0.9135,MiniLM
+Masjid Al Ikhlas,Masjid Al-Iqhlas,0.9046,Masjid Al Iklhlas,0.9614,Masjid Al-Ikhlsa,0.9857,Masjid Al-Aghnia,0.9557,MPNet
+Masjid Nurul Huda,Masjid Nurull Hudda,0.8761,Masjid Nurul Huda,0.9693,Mosque of Nurul Huda,0.9687,Masjid Nurul Husna,0.9415,E5-Large
+Masjid Jami,Masjid Jammi,0.8825,Masjid Jammi,0.9647,MASJID JAMGALIS,0.9681,Masjid Jamiliyah,0.9061,MPNet
+Mushola Al Hidayah,Mushola Al Hidayah,0.9295,Mushola Al Hidayah,0.9802,Musholla Al-Hidayyah,0.9706,MUSHOLLA AL HIDAYAH KAJEN,0.9057,E5-Large
+Masjid Al Muttaqin,Masjid Al Muttaqin,0.9348,AL. MUTTAQIN Masjid,0.9764,Masjid Al-Mutaqien,0.9904,AL MUTTAQIIN MOSQUE,0.9685,MPNet
+Masjid Baiturrahman,Masjid Baiturrahman,0.9321,Masjid Baiturrahman,0.9759,masjid baiturrrahman,0.9781,Baiturrahman Mosque,0.9611,MPNet
+Masjid At Taqwa,Masjid at-Taqwa,0.8971,Masjid At-Taqwa,0.9776,Masjid At Taqi,0.9801,At-Taqwa Mosque Ngareanak,0.9487,MPNet
+Masjid Al Falah,Masjid AL- FALAH,0.9271,Masjid Al Falah,0.975,Masjid AL- FALAH,0.9953,Masjid Al-Falaah,0.9625,MPNet
+Masjid Istiqlal Jakarta,Masjid Istiqlal,0.8251,Masjid Istiqlal,0.9347,Masjid Al istiaanah jakarta,0.9354,Masjid An-Nur Jakarta Timur,0.9072,MPNet
+Masjid Agung Tasikmalaya,Masjid Agung Tasikmalaya,0.8799,Masjid Agung Tasikmalaya,0.9678,Masjid Agung Karangnunggal Tasela,0.924,At-Taqwa Grand Mosque Rawalumbu,0.922,E5-Large
+Masjid Agung Menes,Masjid Agung Menes (Pandeglang),0.7517,Masjid Agung Menes (Pandeglang),0.9212,Masjid Besar Nurul Mannan,0.8557,Al-Mabrur Grand Mosque,0.942,MiniLM
+Masjid Nurul Iman,Masjid Nurul Iman,0.8772,MASJID NURUL IMMAN,0.9694,MASJID NURUL IMMAN,0.9562,Masjid Baetul Iman,0.926,E5-Large
+Islamic Center,Islamic Center,0.8648,Islamic Center,0.9408,Islamic Center,0.9912,Islamic Center,0.9781,MPNet
+Masjid Al Hikmah,MASJID AL-HIIKMAH,0.8882,MASJID AL-HIIKMAH,0.9607,Masjid AL HIKHMAH,0.9933,Masjid Al Hikhmah,0.9623,MPNet
+Masjid Al Amin,Masjid Al Amin,0.9108,Masjid Al-Amin,0.9776,Masjid Al Amina,0.9674,Al Amin Masjid,0.9602,E5-Large
+Masjid Darussalam,Masjid Daarussalam,0.872,Masjid Darusalam,0.9643,Darussalam Mosque,0.9844,Darussalam Mosque,0.9645,MPNet
+Masjid Baitul Makmur,Masjid Bahtul Makmur,0.8605,Masjid Bhaitul Makmur,0.9588,Masjid Baitul Makmun,0.9787,Masjid Jami Panunggal,0.9514,MPNet

@@ -1,0 +1,201 @@
+﻿rank,document_ID,query,model,name,address,provinsi,kabko,kecamatan,mosque_type,rating,similarity
+1,19903,Masjid Agung,MiniLM,Al-Mabrur Grand Mosque,Pinang Ranti East Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA TIMUR,MAKASAR,masjid,4.7,0.91193074
+2,84110,Masjid Agung,MiniLM,Parigi Grand Mosque,Parigi Pangandaran Regency West Java 46393 Indonesia,JAWA BARAT,PANGANDARAN,PARIGI,masjid,4.4,0.91034
+3,110664,Masjid Agung,MiniLM,Grand Mosque,Jumo Grobogan Regency Central Java Indonesia,JAWA TENGAH,GROBOGAN,KEDUNGJATI,masjid,45.0,0.9092992
+4,124759,Masjid Agung,MiniLM,Masjid legendaris, Batuwarno Kec Batuwarno Kabupaten Wonogiri Jawa Tengah 57674 Indonesia,JAWA TENGAH,WONOGIRI,BATUWARNO,masjid,0.0,0.905693
+5,211871,Masjid Agung,MiniLM,Baitul Mukhlasin Mosque,Ngambeh Ngembeh Kec Dlanggu Kabupaten Mojokerto Jawa Timur 61371 Indonesia,JAWA TIMUR,MOJOKERTO,DLANGGU,masjid,4.3,0.90286326
+6,94705,Masjid Agung,MiniLM,Grand Mosque Randegan,Raharja Banjar City West Java Indonesia,JAWA BARAT,KOTA BANJAR,PURWAHARJA,masjid,4.7,0.9021025
+7,185792,Masjid Agung,MiniLM,Baitul Malik Mosque,Cepokomulyo Malang Regency East Java Indonesia,JAWA TIMUR,MALANG,KEPANJEN,masjid,4.7,0.89982486
+8,185060,Masjid Agung,MiniLM,Baitul Malik Mosque,Jl Raya Tumpuk Renteng Desa Krajan Tumpukrenteng Kec Turen Kabupaten Malang Jawa Timur 65175 Indonesia,JAWA TIMUR,MALANG,TUREN,masjid,4.0,0.89982486
+9,19386,Masjid Agung,MiniLM,Baitul Hakim Mosque,Mosque ·  · Jalan Cakra Wijaya V Blok Q Jl Cakra Wijaya VIIC No11 RT6/RW12,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA TIMUR,JATINEGARA,masjid,4.8,0.89950216
+10,19255,Masjid Agung,MiniLM,Baitul Hakim Mosque,Mosque ·  · Jalan Cakra Wijaya V Blok Q Jl Cakra Wijaya VIIC No11 RT6/RW12,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA TIMUR,JATINEGARA,masjid,4.8,0.89950216
+1,169308,Masjid Istiqlal,MiniLM,Masjid Istiqlal,Tempel Turi Kec Jetis Kabupaten Ponorogo Jawa Timur 63473 Indonesia,JAWA TIMUR,PONOROGO,JETIS,masjid,4.3,0.9446125
+2,150489,Masjid Istiqlal,MiniLM,Masjid Istiqlal, Jl Kahuripan Utara Raya Sumber Kec Banjarsari Kota Surakarta Jawa Tengah 57138 Indonesia,JAWA TENGAH,KOTA SURAKARTA,BANJARSARI,masjid,5.0,0.9446125
+3,128777,Masjid Istiqlal,MiniLM,Masjid Istiqlal, Julu Tlogorejo Kec Winong Kabupaten Pati Jawa Tengah 59181 Indonesia,JAWA TENGAH,PATI,WINONG,masjid,48.0,0.9446125
+4,242416,Masjid Istiqlal,MiniLM,Masjid istiqlal,Mosque · Jl Pandegiling No258,JAWA TIMUR,KOTA SURABAYA,TEGALSARI,masjid,4.8,0.94461244
+5,138439,Masjid Istiqlal,MiniLM,Masjid Istiqlal, Dusun Wenoboyo Wonoboyo Dadapan Cemoro Kec Wonoboyo Kabupaten Temanggung Jawa Tengah 56266 Indonesia,JAWA TENGAH,TEMANGGUNG,WONOBOYO,masjid,0.0,0.94461244
+6,121197,Masjid Istiqlal,MiniLM,Masjid Istiqlal, Sokoalas Soka Karangdowo Klaten Regency Central Java 57464 Indonesia,JAWA TENGAH,KLATEN,KARANGDOWO,masjid,46.0,0.94461244
+7,116607,Masjid Istiqlal,MiniLM,Masjid Istiqlal, Karangtengah Girirejo Kec Kaliangkrik Kabupaten Magelang Jawa Tengah 56153 Indonesia,JAWA TENGAH,MAGELANG,KALIANGKRIK,masjid,5.0,0.94461244
+8,101749,Masjid Istiqlal,MiniLM,Masjid Istiqlal, Rejosari Kemiri Kec Mojosongo Kabupaten Boyolali Jawa Tengah 57482 Indonesia,JAWA TENGAH,BOYOLALI,MOJOSONGO,masjid,5.0,0.94461244
+9,14380,Masjid Istiqlal,MiniLM,Istiqlal Mosque,Pasar Baru Central Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA PUSAT,SAWAH BESAR,masjid,4.8,0.9322577
+10,14298,Masjid Istiqlal,MiniLM,Istiqlal Mosque,Pasar Baru Central Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA PUSAT,GAMBIR,masjid,4.8,0.9322577
+1,82066,Masjid Raya Bandung,MiniLM,KUBAH MASJID BANDUNG,Jambudipa West Bandung Regency West Java Indonesia,JAWA BARAT,BANDUNG BARAT,CISARUA,masjid,0.0,0.9134842
+2,87201,Masjid Raya Bandung,MiniLM,Grand Mosque of Bandung,Balonggede Bandung City West Java Indonesia,JAWA BARAT,KOTA BANDUNG,CICENDO,masjid,4.6,0.9104097
+3,87342,Masjid Raya Bandung,MiniLM,Grand Mosque of Bandung,Balonggede Bandung City West Java Indonesia,JAWA BARAT,KOTA BANDUNG,SUKAJADI,masjid,4.6,0.91040957
+4,87038,Masjid Raya Bandung,MiniLM,Grand Mosque of Bandung,Balonggede Bandung City West Java Indonesia,JAWA BARAT,KOTA BANDUNG,ANDIR,masjid,4.6,0.91040957
+5,236734,Masjid Raya Bandung,MiniLM,Masjid Bandung,Bandung Tambelangan Kec Tambelangan Kabupaten Sampang Jawa Timur 69253 Indonesia,JAWA TIMUR,SAMPANG,TAMBELANGAN,masjid,5.0,0.9059492
+6,89022,Masjid Raya Bandung,MiniLM,Masjid bandung,Cijaura Buahbatu Bandung City West Java 40287 Indonesia,JAWA BARAT,KOTA BANDUNG,BUAHBATU,masjid,5.0,0.9059492
+7,87590,Masjid Raya Bandung,MiniLM,Masjid bandung,Citarum Bandung Wetan Bandung City West Java 40115 Indonesia,JAWA BARAT,KOTA BANDUNG,BANDUNG WETAN,masjid,5.0,0.9059491
+8,50324,Masjid Raya Bandung,MiniLM,Masjid Jami Panunggal,Kudadepa Sukahening Tasikmalaya Regency West Java 46155 Indonesia,JAWA BARAT,TASIKMALAYA,SUKAHENING,masjid,4.3,0.898594
+9,62568,Masjid Raya Bandung,MiniLM,Nurulzanah Mosque,Mekarjaya Kertajati Majalengka Regency West Java 45457 Indonesia,JAWA BARAT,MAJALENGKA,KERTAJATI,masjid,4.7,0.8959401
+10,165167,Masjid Raya Bandung,MiniLM,Masjid Margotunggal(ꦩꦱ꧀ꦗꦶꦣ꧀), Jl Masjid Ngentak Caturtunggal Kec Depok Kabupaten Sleman Daerah Istimewa Yogyakarta 55281 Indonesia,DAERAH ISTIMEWA YOGYAKARTA,SLEMAN,DEPOK,masjid,47.0,0.89403445
+1,82858,Masjid Al Ikhlas,MiniLM,Masjid Al-Aghnia,Laksanamekar Padalarang West Bandung Regency West Java 40553 Indonesia,JAWA BARAT,BANDUNG BARAT,PADALARANG,masjid,4.6,0.95572275
+2,2871,Masjid Al Ikhlas,MiniLM,Masjid al ikahlas,Cisampang Gunungkencana Lebak Regency Banten 42354 Indonesia,BANTEN,LEBAK,GUNUNGKENCANA,masjid,0.0,0.9540868
+3,43732,Masjid Al Ikhlas,MiniLM,Masjid Al-Ikhlsa,Kp kudang Sukaresmi Kec Sukaresmi Kabupaten Garut Jawa Barat 44163 Indonesia,JAWA BARAT,GARUT,SUKARESMI,masjid,4.4,0.9526333
+4,40917,Masjid Al Ikhlas,MiniLM,Al Inayah Bunisari Mosque,Padasuka Bandung Regency West Java Indonesia,JAWA BARAT,BANDUNG,KUTAWARINGIN,masjid,4.8,0.9493885
+5,89355,Masjid Al Ikhlas,MiniLM,Jami Al-Istianah Mosque,Mosque · Jl AH Nasution No02,JAWA BARAT,KOTA BANDUNG,CIBIRU,masjid,4.3,0.9482895
+6,6920,Masjid Al Ikhlas,MiniLM,Masjid Al Akhilla,Panongan Tangerang Regency Banten 15710 Indonesia,BANTEN,TANGERANG,PANONGAN,masjid,5.0,0.94818836
+7,35673,Masjid Al Ikhlas,MiniLM,Al-Inayah Mosque,Padaluyu Cikadu Cianjur Regency West Java 43284 Indonesia,JAWA BARAT,CIANJUR,CIKADU,masjid,4.7,0.946423
+8,24412,Masjid Al Ikhlas,MiniLM,Masjid Al - Istikroom,Sukamaju Cigudeg Bogor Regency West Java 16660 Indonesia,JAWA BARAT,BOGOR,CIGUDEG,masjid,5.0,0.94572234
+9,151215,Masjid Al Ikhlas,MiniLM,Masjid Al - Akhfa,Mosque ·  Jl St RT04/RW06,JAWA TENGAH,CILACAP,KESUGIHAN,masjid,44.0,0.9455273
+10,88709,Masjid Al Ikhlas,MiniLM,Masjid Al Istiharu,Babakanciamis Bandung City West Java Indonesia,JAWA BARAT,KOTA BANDUNG,SUMUR BANDUNG,masjid,0.0,0.9447341
+1,85684,Masjid Nurul Huda,MiniLM,Masjid Nurul Husna,Jl Sukamulya Gg Wargamulya RT02/RW3 Sukasari Kec Bogor Tim Kota Bogor Jawa Barat 16142 Indonesia,JAWA BARAT,KOTA BOGOR,BOGOR TIMUR,masjid,0.0,0.9415439
+2,239140,Masjid Nurul Huda,MiniLM,Masjid Nurul Husna,none,JAWA TIMUR,SUMENEP,AMBUNTEN,masjid,4.6,0.9415438
+3,239113,Masjid Nurul Huda,MiniLM,Masjid Nurul Husna,Campor Campor Bar Kec Ambunten Kabupaten Sumenep Jawa Timur 69455 Indonesia,JAWA TIMUR,SUMENEP,AMBUNTEN,masjid,4.6,0.9415438
+4,228730,Masjid Nurul Huda,MiniLM,Masjid Nurul Husna,Wonorejo Ponco Suciharjo Kec Parengan Kabupaten Tuban Jawa Timur 62366 Indonesia,JAWA TIMUR,TUBAN,PARENGAN,masjid,5.0,0.9415438
+5,195167,Masjid Nurul Huda,MiniLM,Masjid Nurul Husna,Jl Jambu Krajan Jemberlor Kec Patrang Kabupaten Jember Jawa Timur 68118 Indonesia,JAWA TIMUR,JEMBER,PATRANG,masjid,5.0,0.9415438
+6,77993,Masjid Nurul Huda,MiniLM,Masjid Nurul Husna,Mosque · Perumahan Taman Edelwis Jl Anggrek 3 No12 Blok B4,JAWA BARAT,BEKASI,TAMBUN UTARA,masjid,4.7,0.9415438
+7,75933,Masjid Nurul Huda,MiniLM,Masjid Nurul Husna,none,JAWA BARAT,KARAWANG,LEMAHABANG,masjid,4.6,0.9415438
+8,45575,Masjid Nurul Huda,MiniLM,Masjid nurul husna,Unnamed Road Cimahi Caringin Garut Regency West Java 44166 Indonesia,JAWA BARAT,GARUT,CARINGIN,masjid,5.0,0.9415438
+9,17045,Masjid Nurul Huda,MiniLM,Masjid Nurul Husna,Tegal Alur West Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA BARAT,KALIDERES,masjid,0.0,0.9415438
+10,85690,Masjid Nurul Huda,MiniLM,Masjid Jami Nurul husna,WargaMulya RT2 RW3/RW02 Sukasari Kec Bogor Tim Kota Bogor Jawa Barat 16142 Indonesia,JAWA BARAT,KOTA BOGOR,BOGOR TIMUR,masjid,0.0,0.93536115
+1,34546,Masjid Jami,MiniLM,Masjid Jamiliyah,kp selaawi RT2/RW02 Situhiang Pagelaran Cianjur Regency West Java 43266 Indonesia,JAWA BARAT,CIANJUR,PAGELARANG,masjid,5.0,0.90613866
+2,50042,Masjid Jami,MiniLM,Masjid Jamie A. Baeli Putra,Linggajati Sukaratu Tasikmalaya Regency West Java 46415 Indonesia,JAWA BARAT,TASIKMALAYA,SUKARATU,masjid,4.6,0.9026221
+3,29768,Masjid Jami,MiniLM,Masjid Jami Ciwaru,Jl Ciwaru Purwasedar Kec Ciracap Kabupaten Sukabumi Jawa Barat 43176 Indonesia,JAWA BARAT,SUKABUMI,CIRACAP,masjid,0.0,0.8998015
+4,3211,Masjid Jami,MiniLM,Masjid Jami Ciwaru,Ciwaru Rangkasbitung Bar Kec Rangkasbitung Kabupaten Lebak Banten 42312 Indonesia,BANTEN,LEBAK,RANGKASBITUNG,masjid,5.0,0.8998015
+5,149061,Masjid Jami,MiniLM,Masjid Jammi,Bogares Kidul Tegal Regency Central Java Indonesia,JAWA TENGAH,TEGAL,KEDUNGBANTENG,masjid,5.0,0.8990407
+6,211670,Masjid Jami,MiniLM,Masjid Jambu,Jl Jambu Sampang Agung Kutorejo Jambu Jiyu Kec Kutorejo Kabupaten Mojokerto Jawa Timur 61383 Indonesia,JAWA TIMUR,MOJOKERTO,KUTOREJO,masjid,4.7,0.8983592
+7,33883,Masjid Jami,MiniLM,Masjid jamie,Mekar Sari Cikalongkulon Cianjur Regency West Java 43291 Indonesia,JAWA BARAT,CIANJUR,CIKALONGKULON,masjid,0.0,0.89694154
+8,29015,Masjid Jami,MiniLM,Masjid jamie,Jl Cirasamala Cihamerang Kec Kabandungan Kabupaten Sukabumi Jawa Barat 43368 Indonesia,JAWA BARAT,SUKABUMI,KABANDUNGAN,masjid,4.0,0.89694154
+9,26469,Masjid Jami,MiniLM,Masjid jamie,Tanjungsari Bogor Regency West Java 16840 Indonesia,JAWA BARAT,BOGOR,TANJUNGSARI,masjid,0.0,0.89694154
+10,36040,Masjid Jami,MiniLM,Masjid Jamie,Kp Gelar padang Jl Raya Cijati Cibodas Kec Cijati Kabupaten Cianjur Jawa Barat 43284 Indonesia,JAWA BARAT,CIANJUR,CIJATI,masjid,0.0,0.8969414
+1,118221,Mushola Al Hidayah,MiniLM,MUSHOLLA AL HIDAYAH KAJEN, Unnamed Road Dusun I Bonyokan Kec Jatinom Kabupaten Klaten Jawa Tengah 57481 Indonesia,JAWA TENGAH,KLATEN,TULUNG,mushola,5.0,0.9056861
+2,206085,Mushola Al Hidayah,MiniLM,Muholla Al Hidayah,Baujeng Kec Beji Pasuruan Jawa Timur 67154 Indonesia,JAWA TIMUR,PASURUAN,BEJI,musholla,4.7,0.9054868
+3,135437,Mushola Al Hidayah,MiniLM,Mushola Al-Hidayah Ngabean, Ngabean Pringapus Kec Pringapus Kabupaten Semarang Jawa Tengah 50214 Indonesia,JAWA TENGAH,SEMARANG,PRINGAPUS,mushola,5.0,0.9035621
+4,200920,Mushola Al Hidayah,MiniLM,Mushallah Al Hidayah,Sempol Kec Ijen Kabupaten Bondowoso Jawa Timur 68288 Indonesia,JAWA TIMUR,BONDOWOSO,SEMPOL,musholla,5.0,0.90323734
+5,242042,Mushola Al Hidayah,MiniLM,AL-HIDAYAH (MUSHOLLA),Musalla ·  Jl Pucang Anom,JAWA TIMUR,KOTA MADIUN,KARTOHARJO,musholla,5.0,0.90310144
+6,219780,Mushola Al Hidayah,MiniLM,AL-HIDAYAH (MUSHOLLA),Jl Pucang Anom Manisrejo Kec Taman Kota Madiun Jawa Timur 63138 Indonesia,JAWA TIMUR,MADIUN,MADIUN,musholla,5.0,0.90310144
+7,233019,Mushola Al Hidayah,MiniLM,mushola putri Al Hidayah,Dereng Ngasin Kec Balongpanggang Kabupaten Gresik Jawa Timur 61173 Indonesia,JAWA TIMUR,GRESIK,BALONGPANGGANG,mushola,0.0,0.90191823
+8,222875,Mushola Al Hidayah,MiniLM,Muhsola Al-hidayah,Gg Randu Ijo Sambirobyong II Geneng Kec Geneng Kabupaten Ngawi Jawa Timur 63271 Indonesia,JAWA TIMUR,NGAWI,GENENG,musholla,0.0,0.89279497
+9,127181,Mushola Al Hidayah,MiniLM,Musholla Al Hidayah Ustadz Azen, Unnamed Road Pasuruan Pasuruhan Kec Kayen Kabupaten Pati Jawa Tengah 59171 Indonesia,JAWA TENGAH,PATI,KAYEN,mushola,0.0,0.8920033
+10,145798,Mushola Al Hidayah,MiniLM,Musholla Al-Hidayah Pundung Gede, Pundung Gede RT08/RWXV Kadipiro Kec Banjarsari Kota Surakarta Jawa Tengah 57136 Indonesia,JAWA TENGAH,KOTA SURAKARTA,JEBRES,mushola,48.0,0.8918917
+1,191428,Masjid Al Muttaqin,MiniLM,AL MUTTAQIIN MOSQUE,Krajan Wonorejo Kec Kedungjajang Kabupaten Lumajang Jawa Timur 67358 Indonesia,JAWA TIMUR,LUMAJANG,KEDUNGJAJANG,masjid,5.0,0.9684848
+2,17003,Masjid Al Muttaqin,MiniLM,Al-Muttaqien Mosque,Duri Kepa West Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA BARAT,KEBON JERUK,masjid,4.8,0.9683433
+3,14670,Masjid Al Muttaqin,MiniLM,Al-Muttaqien Mosque,Kramat Central Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA PUSAT,SENEN,masjid,5.0,0.9683433
+4,241334,Masjid Al Muttaqin,MiniLM,Al-Muttaqien Mosque,Mojolangu Malang City East Java Indonesia,JAWA TIMUR,KOTA MALANG,LOWOKWARU,masjid,4.8,0.96834326
+5,89697,Masjid Al Muttaqin,MiniLM,Al-Muhtadin Mosque,Jl Sukamaju Cipadung Kulon Kec Panyileukan Kota Bandung Jawa Barat 40614 Indonesia,JAWA BARAT,KOTA BANDUNG,PANYILEUKAN,masjid,4.7,0.96528786
+6,81450,Masjid Al Muttaqin,MiniLM,Jami Al-Muttaqiin Mosque,Cibarusahkota Cibarusah Bekasi Regency West Java 17340 Indonesia,JAWA BARAT,BEKASI,CIBARUSAH,masjid,4.5,0.9644462
+7,18395,Masjid Al Muttaqin,MiniLM,Jami' Al-Muttaqiin Mosque,Kramat Pela South Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA SELATAN,KEBAYORAN BARU,masjid,4.8,0.96444607
+8,64129,Masjid Al Muttaqin,MiniLM,Masjid Al Mulisin,Sukatali Situraja Sumedang Regency West Java 45371 Indonesia,JAWA BARAT,SUMEDANG,SITURAJA,masjid,4.3,0.9631732
+9,18567,Masjid Al Muttaqin,MiniLM,Jami' Al-Mujtamiin Mosque,Jl Warung Jati Barat I No6 RT6/RW3 Kalibata Kec Pancoran Kota Jakarta Selatan Daerah Khusus Ibukota Jakarta 12740 Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA SELATAN,PANCORAN,masjid,4.8,0.9630555
+10,174899,Masjid Al Muttaqin,MiniLM,Masjid Al Muslihun,Nglempung Sukoharjo Kec Bandung Kabupaten Tulungagung Jawa Timur 66274 Indonesia,JAWA TIMUR,TULUNGAGUNG,BANDUNG,masjid,5.0,0.96196324
+1,91748,Masjid Baiturrahman,MiniLM,Baiturrahman Mosque,Mosque ·  · Jl Baru Plenongan Gg Masjid No54,JAWA BARAT,KOTA DEPOK,PANCORAN MAS,masjid,4.8,0.9610501
+2,90463,Masjid Baiturrahman,MiniLM,Baiturrahman Mosque,Mosque ·  · Jl Mirah Jl Permata Hijau Permai No5 RT007/RW017,JAWA BARAT,KOTA BEKASI,BEKASI UTARA,masjid,4.8,0.9610501
+3,90442,Masjid Baiturrahman,MiniLM,Baiturrahman Mosque,Mosque ·  · Jl Mirah Jl Permata Hijau Permai No5 RT007/RW017,JAWA BARAT,KOTA BEKASI,BEKASI UTARA,masjid,4.8,0.9610501
+4,41643,Masjid Baiturrahman,MiniLM,Baiturrahman Mosque,Sukaratu Banyuresmi Garut Regency West Java 44191 Indonesia,JAWA BARAT,GARUT,BANYURESMI,masjid,4.9,0.9610501
+5,89432,Masjid Baiturrahman,MiniLM,Baiturrahman Mosque,Cibiru Wetan Bandung Regency West Java Indonesia,JAWA BARAT,KOTA BANDUNG,CIBIRU,masjid,4.8,0.96105003
+6,77515,Masjid Baiturrahman,MiniLM,Baiturrahman Mosque,Mosque · Masjid Baiturrahman (Kebalen) Jl Nusa Indah,JAWA BARAT,BEKASI,BABELAN,masjid,4.8,0.96105003
+7,69590,Masjid Baiturrahman,MiniLM,Baiturrahman Mosque,Pusakaratu Pusakanagara Subang Regency West Java 41255 Indonesia,JAWA BARAT,SUBANG,PUSAKANAGARA,masjid,4.8,0.96105003
+8,21679,Masjid Baiturrahman,MiniLM,Baiturrahman Mosque,Cipenjo Cileungsi Bogor Regency West Java 16820 Indonesia,JAWA BARAT,BOGOR,CILEUNGSI,masjid,4.7,0.96105003
+9,16101,Masjid Baiturrahman,MiniLM,Baiturrahman Mosque,Mosque ·  · PT Taman Impian Jaya Ancol No 7 PT Taman Impian Jaya Binaria No7 RW10,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA UTARA,PADEMANGAN,masjid,4.8,0.96105003
+10,16005,Masjid Baiturrahman,MiniLM,Baiturrahman Mosque,Mosque ·  · PT Taman Impian Jaya Ancol No 7 PT Taman Impian Jaya Binaria No7 RW10,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA UTARA,PADEMANGAN,masjid,4.8,0.96105003
+1,143794,Masjid At Taqwa,MiniLM,At-Taqwa Mosque Ngareanak,Ngareanak Kendal Regency Central Java Indonesia,JAWA TENGAH,KENDAL,SINGOROJO,masjid,5.0,0.9487122
+2,17266,Masjid At Taqwa,MiniLM,At-Taqwa Mosque,Jl Kemanggisan No29 2 RT2/RW9 Palmerah Kec Palmerah Kota Jakarta Barat Daerah Khusus Ibukota Jakarta 11480 Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA BARAT,PAL MERAH,masjid,4.8,0.94681525
+3,16409,Masjid At Taqwa,MiniLM,At-Taqwa Mosque,Duri Kosambi West Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA BARAT,CENGKARENG,masjid,4.8,0.94681525
+4,15929,Masjid At Taqwa,MiniLM,At-Taqwa Mosque,RT2/RW9 West Semper Cilincing North Jakarta City Jakarta 14130 Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA UTARA,CILINCING,masjid,5.0,0.94681525
+5,14417,Masjid At Taqwa,MiniLM,At-Taqwa Mosque,Karang Anyar Central Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA PUSAT,SAWAH BESAR,masjid,4.7,0.94681525
+6,14396,Masjid At Taqwa,MiniLM,At-Taqwa Mosque,RW10 North Gunung Sahari Sawah Besar Central Jakarta City Jakarta 14410 Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA PUSAT,SAWAH BESAR,masjid,4.7,0.94681525
+7,13762,Masjid At Taqwa,MiniLM,At-Taqwa Mosque,Jl Legoso Raya No38 RT4/RW7 Pisangan Kec Ciputat Tim Kota Tangerang Selatan Banten 15419 Indonesia,BANTEN,KOTA TANGERANG SELATAN,CIPUTAT,masjid,5.0,0.94681525
+8,13652,Masjid At Taqwa,MiniLM,At-Taqwa Mosque,Pondok Benda Pamulang South Tangerang City Banten 15416 Indonesia,BANTEN,KOTA TANGERANG SELATAN,CIPUTAT,masjid,4.8,0.94681525
+9,11833,Masjid At Taqwa,MiniLM,At-Taqwa Mosque,RT001/RW010 Pajang Benda Tangerang City Banten 15126 Indonesia,BANTEN,KOTA TANGERANG,NEGLASARI,masjid,4.7,0.94681525
+10,6096,Masjid At Taqwa,MiniLM,At-Taqwa Mosque,Jatimulya Tangerang Regency Banten Indonesia,BANTEN,TANGERANG,KOSAMBI,masjid,4.0,0.94681525
+1,87097,Masjid Al Falah,MiniLM,Masjid Al-Falaah,Ciroyom Bandung City West Java Indonesia,JAWA BARAT,KOTA BANDUNG,ANDIR,masjid,5.0,0.96253455
+2,73781,Masjid Al Falah,MiniLM,Masjid Al-Falaah,Kutagandok Karawang West Java Indonesia,JAWA BARAT,KARAWANG,RENGASDENGKLOK,masjid,4.6,0.96253455
+3,61474,Masjid Al Falah,MiniLM,Masjid Al-Falaah,Jl Winusakti Gunungmanik Kec Talaga Kabupaten Majalengka Jawa Barat 45466 Indonesia,JAWA BARAT,MAJALENGKA,TALAGA,masjid,4.6,0.96253455
+4,61447,Masjid Al Falah,MiniLM,Masjid Al-Falaah,Muktisari Cingambul Majalengka Regency West Java 45467 Indonesia,JAWA BARAT,MAJALENGKA,TALAGA,masjid,4.8,0.96253455
+5,54318,Masjid Al Falah,MiniLM,masjid al-falaah,Jl Masjid Al Falah Tembong Kec Garawangi Kabupaten Kuningan Jawa Barat 45571 Indonesia,JAWA BARAT,KUNINGAN,GARAWANGI,masjid,5.0,0.96253455
+6,54297,Masjid Al Falah,MiniLM,Masjid Al-Falaah,Cineumbeuy Lebakwangi Kuningan Regency West Java 45574 Indonesia,JAWA BARAT,KUNINGAN,LEBAKWANGI,masjid,5.0,0.96253455
+7,48065,Masjid Al Falah,MiniLM,Masjid Al Falaah,Jayaputra Sariwangi Tasikmalaya Regency West Java 46465 Indonesia,JAWA BARAT,TASIKMALAYA,SALAWU,masjid,4.2,0.96253455
+8,22652,Masjid Al Falah,MiniLM,Masjid Al Falaah,Educational institution ·  · Jl Raya Kemang Parung Bogor No82,JAWA BARAT,BOGOR,KEMANG,masjid,4.8,0.96253455
+9,22570,Masjid Al Falah,MiniLM,Masjid Al Falaah,Educational institution ·  · Jl Raya Kemang Parung Bogor No82,JAWA BARAT,BOGOR,KEMANG,masjid,4.8,0.96253455
+10,11297,Masjid Al Falah,MiniLM,Masjid Al-Falaah,Ketapang Tangerang City Banten Indonesia,BANTEN,KOTA TANGERANG,CIPONDOH,masjid,4.8,0.96253455
+1,19728,Masjid Istiqlal Jakarta,MiniLM,Masjid An-Nur Jakarta Timur,Mosque · Jl Delima I Blok 13 Rt 005/003 Perumnas Klender RT5/RW3,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA TIMUR,DUREN SAWIT,masjid,4.7,0.90720356
+2,19561,Masjid Istiqlal Jakarta,MiniLM,Dewan Masjid Indonesia Provinsi DKI Jakarta,Jl Kramat Jaya Raya & Jl Lkr Islamic Center RW1 Tugu Utara Kec Koja Jkt Utara Daerah Khusus Ibukota Jakarta 14260 Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA TIMUR,CAKUNG,masjid,4.5,0.905016
+3,14665,Masjid Istiqlal Jakarta,MiniLM,Masjid Al istiaanah jakarta,RT10/RW9 Kramat Senen Central Jakarta City Jakarta 10540 Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA PUSAT,SENEN,masjid,4.3,0.90496004
+4,64550,Masjid Istiqlal Jakarta,MiniLM,Masjid Al-Awal Indonesia,Gunungmanik Sumedang Regency West Java Indonesia,JAWA BARAT,SUMEDANG,TANJUNGSARI,masjid,5.0,0.9034042
+5,17550,Masjid Istiqlal Jakarta,MiniLM,Masjid Baitulmaqdis Indonesia,East Tebet South Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA SELATAN,TEBET,masjid,5.0,0.89983684
+6,19262,Masjid Istiqlal Jakarta,MiniLM,"Masjid At Taubah, Samsat Jakarta Timur",RT12/RW6 South Cipinang Besar Jatinegara East Jakarta City Jakarta 13410 Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA TIMUR,JATINEGARA,masjid,5.0,0.89960796
+7,210416,Masjid Istiqlal Jakarta,MiniLM,Dewan Masjid Indonesia,Non-governmental organization · Islamic Centre Building JL Dukuh Kupang 122-124 Dukuh Pakis Surabaya 60225,JAWA TIMUR,SIDOARJO,SEDATI,masjid,5.0,0.8953212
+8,15094,Masjid Istiqlal Jakarta,MiniLM,"Jami' Al-Falah Mosque, Benhil (MAB) Jakarta",Bendungan Hilir Central Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA PUSAT,TANAH ABANG,masjid,4.8,0.89086366
+9,15036,Masjid Istiqlal Jakarta,MiniLM,"Jami' Al-Falah Mosque, Benhil (MAB) Jakarta",Bendungan Hilir Central Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA PUSAT,TANAH ABANG,masjid,4.8,0.89086366
+10,19438,Masjid Istiqlal Jakarta,MiniLM,Baitul Ilmi Mosque SMAN 106 Jakarta,Pekayon East Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA TIMUR,PASAR REBO,masjid,4.8,0.8862556
+1,90729,Masjid Agung Tasikmalaya,MiniLM,At-Taqwa Grand Mosque Rawalumbu,Mosque · Jl Lumbu Utara Raya Jembatan 11 No2 RT005/RW019,JAWA BARAT,KOTA BEKASI,RAWALUMBU,masjid,4.8,0.92201424
+2,52464,Masjid Agung Tasikmalaya,MiniLM,Baitur Taqwa Grand Mosque,Sukanagara Lakbok Ciamis Regency West Java 46385 Indonesia,JAWA BARAT,CIAMIS,LAKBOK,masjid,4.7,0.9191769
+3,229487,Masjid Agung Tasikmalaya,MiniLM,Nurut Taqwa Mosque,Mosque · Jl Karang Gambir No209,JAWA TIMUR,TUBAN,SEMANDING,masjid,5.0,0.9109094
+4,9420,Masjid Agung Tasikmalaya,MiniLM,Jami' Baitul Taqwa Mosque,Nambo Udik Cikande Serang Regency Banten 42186 Indonesia,BANTEN,SERANG,CIKANDE,masjid,3.6,0.910732
+5,9377,Masjid Agung Tasikmalaya,MiniLM,Jami' Baitul Taqwa Mosque,Nambo Udik Cikande Serang Regency Banten 42186 Indonesia,BANTEN,SERANG,CIKANDE,masjid,3.6,0.910732
+6,92763,Masjid Agung Tasikmalaya,MiniLM,At Taqwa Great Mosque,Jl H Abdul Gani No7 3 RW2 Jatimulya Kec Cilodong Kota Depok Jawa Barat 16413 Indonesia,JAWA BARAT,KOTA DEPOK,CILODONG,masjid,4.8,0.9066332
+7,74955,Masjid Agung Tasikmalaya,MiniLM,At-Taqwa Great Mosque,Mosque · no 78 kampung sukamaju desa Jl Raya Jatisari,JAWA BARAT,KARAWANG,JATISARI,masjid,4.4,0.9066332
+8,22742,Masjid Agung Tasikmalaya,MiniLM,At-Taqwa Great Mosque,Bojong Baru Bojonggede Bogor Regency West Java 16920 Indonesia,JAWA BARAT,BOGOR,BOJONGGEDE,masjid,4.8,0.9066332
+9,15262,Masjid Agung Tasikmalaya,MiniLM,At - Taqwa Great Mosque,Johar Baru Central Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA PUSAT,JOHAR BARU,masjid,4.7,0.9066332
+10,182818,Masjid Agung Tasikmalaya,MiniLM,At-Taqwa Mosque of Santren,Genuk Watu Nanggungan Kec Kayen Kidul Kabupaten Kediri Jawa Timur 64183 Indonesia,JAWA TIMUR,KEDIRI,KAYEN KIDUL,masjid,5.0,0.90600693
+1,19903,Masjid Agung Menes,MiniLM,Al-Mabrur Grand Mosque,Pinang Ranti East Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA TIMUR,MAKASAR,masjid,4.7,0.9420401
+2,211871,Masjid Agung Menes,MiniLM,Baitul Mukhlasin Mosque,Ngambeh Ngembeh Kec Dlanggu Kabupaten Mojokerto Jawa Timur 61371 Indonesia,JAWA TIMUR,MOJOKERTO,DLANGGU,masjid,4.3,0.933401
+3,185792,Masjid Agung Menes,MiniLM,Baitul Malik Mosque,Cepokomulyo Malang Regency East Java Indonesia,JAWA TIMUR,MALANG,KEPANJEN,masjid,4.7,0.9271627
+4,185060,Masjid Agung Menes,MiniLM,Baitul Malik Mosque,Jl Raya Tumpuk Renteng Desa Krajan Tumpukrenteng Kec Turen Kabupaten Malang Jawa Timur 65175 Indonesia,JAWA TIMUR,MALANG,TUREN,masjid,4.0,0.9271627
+5,84110,Masjid Agung Menes,MiniLM,Parigi Grand Mosque,Parigi Pangandaran Regency West Java 46393 Indonesia,JAWA BARAT,PANGANDARAN,PARIGI,masjid,4.4,0.92598987
+6,94705,Masjid Agung Menes,MiniLM,Grand Mosque Randegan,Raharja Banjar City West Java Indonesia,JAWA BARAT,KOTA BANJAR,PURWAHARJA,masjid,4.7,0.92545855
+7,182459,Masjid Agung Menes,MiniLM,Baitus Mosque Sholihin,Ngablak Kediri Regency East Java Indonesia,JAWA TIMUR,KEDIRI,BANYAKAN,masjid,4.8,0.9245403
+8,180834,Masjid Agung Menes,MiniLM,Baitus Mosque Sholihin,Ngablak Kediri Regency East Java Indonesia,JAWA TIMUR,KEDIRI,GAMPENGREJO,masjid,4.8,0.9245403
+9,20624,Masjid Agung Menes,MiniLM,Baitus Mosque Sholihin,Jl Villa Permata Mas Raya Bojong Nangka Kec Gn Putri Kabupaten Bogor Jawa Barat 16963 Indonesia,JAWA BARAT,BOGOR,GUNUNGPUTRI,masjid,4.5,0.9245403
+10,134554,Masjid Agung Menes,MiniLM,Baitus Mosque Sholihin, Rw 2 Bodeh Kec Pucakwangi Kabupaten Pati Jawa Tengah 59183 Indonesia,JAWA TENGAH,PATI,PUCAKWANGI,masjid,43.0,0.92454016
+1,149150,Masjid Nurul Iman,MiniLM,Masjid BAETUL IMAN, Mingkrik Penusupan Kec Pangkah Kabupaten Tegal Jawa Tengah 52471 Indonesia,JAWA TENGAH,TEGAL,PANGKAH,masjid,5.0,0.9260367
+2,64236,Masjid Nurul Iman,MiniLM,Masjid Baetul Iman,Haurkuning Paseh Sumedang Regency West Java 45381 Indonesia,JAWA BARAT,SUMEDANG,PASEH,masjid,5.0,0.9260367
+3,55843,Masjid Nurul Iman,MiniLM,Masjid Baetul Iman,Pancalang Kuningan Regency West Java Indonesia,JAWA BARAT,KUNINGAN,PANCALANG,masjid,0.0,0.9260366
+4,84483,Masjid Nurul Iman,MiniLM,Jami Masjid Nurul Iman,Limusgede Cimerak Kabupaten Ciamis West Java 46395 Indonesia,JAWA BARAT,PANGANDARAN,CIMERAK,masjid,4.8,0.92397845
+5,80350,Masjid Nurul Iman,MiniLM,Jami Masjid Nurul Iman,Place of worship · kp bungin rt 003/001 des pantai bhakti 17730,JAWA BARAT,BEKASI,MUARAGEMBONG,masjid,3.9,0.92397845
+6,54891,Masjid Nurul Iman,MiniLM,Jami Masjid Nurul Iman,Peusing Jalaksana Kuningan Regency West Java 45554 Indonesia,JAWA BARAT,KUNINGAN,JALAKSANA,masjid,4.9,0.92397845
+7,46732,Masjid Nurul Iman,MiniLM,Jami Masjid Nurul Iman,Cijulang Ciamis Regency West Java 46394 Indonesia,JAWA BARAT,TASIKMALAYA,PANCATENGAH,masjid,4.4,0.92397845
+8,44875,Masjid Nurul Iman,MiniLM,Jami Masjid Nurul Iman,Cigadog Cikelet Garut Regency West Java 44177 Indonesia,JAWA BARAT,GARUT,CIKELET,masjid,5.0,0.92397845
+9,102211,Masjid Nurul Iman,MiniLM,Masjid Nurull iman, Serang Cihonje Gumelar Banyumas Regency Central Java 53165 Indonesia,JAWA TENGAH,BANYUMAS,GUMELAR,masjid,4.0,0.9217814
+10,93146,Masjid Nurul Iman,MiniLM,Masjid Jami' Miftahul Iman,Jl Delima No58 Bojongsari Baru Kec Bojongsari Kota Depok Jawa Barat 16516 Indonesia,JAWA BARAT,KOTA DEPOK,BOJONGSARI,masjid,4.7,0.9211936
+1,119005,Islamic Center,MiniLM,Islamic center, Jl Ngadirejo - Jumo Karangtejo Kec Jumo Kabupaten Temanggung Jawa Tengah 56256 Indonesia,JAWA TENGAH,TEMANGGUNG,KEDU,islamic_center,0.0,0.9780729
+2,113735,Islamic Center,MiniLM,Islamic Center, Jl Pemuda Kedungdoro Leteh Kec Rembang Kabupaten Rembang Jawa Tengah 59217 Indonesia,JAWA TENGAH,REMBANG,SULANG,islamic_center,0.0,0.9780729
+3,105311,Islamic Center,MiniLM,Islamic center, Kepuh Bulu Kec Polokarto Kabupaten Sukoharjo Jawa Tengah 57555 Indonesia,JAWA TENGAH,SUKOHARJO,SUKOHARJO,islamic_center,0.0,0.9780729
+4,94567,Islamic Center,MiniLM,ISLAMIC CENTER,Jl Cidugaleun Tanjungjaya Kec Cisaga Kabupaten Ciamis Jawa Barat 46386 Indonesia,JAWA BARAT,KOTA BANJAR,PATARUMAN,islamic_center,0.0,0.9780729
+5,71221,Islamic Center,MiniLM,ISLAMIC CENTER,Jl Lurah Kawi Cikaobandung Kec Jatiluhur Kabupaten Purwakarta Jawa Barat 41152 Indonesia,JAWA BARAT,PURWAKARTA,JATILUHUR,islamic_center,0.0,0.9780729
+6,22539,Islamic Center,MiniLM,Islamic Center,Fashion designer · Jl Lolongok Gg08 Rt05/05 No05 RT06/RW05,JAWA BARAT,BOGOR,KEMANG,islamic_center,0.0,0.9780729
+7,18661,Islamic Center,MiniLM,Islamic Center,Education · JlnMKahfi216 (JlnWakaf No16) Jagakarsa - Jakarta Selatan DKI RT10/RW8,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA SELATAN,JAGAKARSA,islamic_center,4.7,0.9780729
+8,17800,Islamic Center,MiniLM,Islamic center,Gg Hikmah RT3/RW5 Cilangkap Kec Cipayung Kota Jakarta Timur Daerah Khusus Ibukota Jakarta 13870 Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA SELATAN,MAMPANG PRAPATAN,islamic_center,5.0,0.9780729
+9,14210,Islamic Center,MiniLM,Islamic Center,Jl Almanar Angsau Kec Pelaihari Kabupaten Tanah Laut Kalimantan Selatan 70812 Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,ADMINISTRASI KEPULAUAN SERIBU,KEPULAUAN SERIBU SELATAN,islamic_center,4.5,0.9780729
+10,2445,Islamic Center,MiniLM,Islamic Center,JL Raya Bayah Karangtaraja Bayah Bar Rangkasbitung Kabupaten Lebak Banten 42393 Indonesia,BANTEN,LEBAK,BAYAH,islamic_center,4.2,0.9780729
+1,218498,Masjid Al Hikmah,MiniLM,Masjid Al Hikhmah,Banggle Lengkong Hutan Sumbermiri Nganjuk Kabupaten Nganjuk Jawa Timur 64393 Indonesia,JAWA TIMUR,NGANJUK,LENGKONG,masjid,0.0,0.9623121
+2,45056,Masjid Al Hikmah,MiniLM,Masjid AL HIKHMAH,RT/02/RW/12 Mekarjaya Kec Bungbulang Kabupaten Garut Jawa Barat 44165 Indonesia,JAWA BARAT,GARUT,BUNGBULANG,masjid,0.0,0.96231186
+3,210445,Masjid Al Hikmah,MiniLM,Masjid Al-Hibah,Sedati Gede Sidoarjo Regency East Java Indonesia,JAWA TIMUR,SIDOARJO,SEDATI,masjid,4.4,0.9501443
+4,201902,Masjid Al Hikmah,MiniLM,Masjid Al-Hikam,Awar Awar Awar-Awar Kec Asembagus Kabupaten Situbondo Jawa Timur 68373 Indonesia,JAWA TIMUR,SITUBONDO,ASEMBAGUS,masjid,5.0,0.948863
+5,168117,Masjid Al Hikmah,MiniLM,Masjid Al Hikam,Ngetol Widoro Pacitan Pacitan Regency East Java 63518 Indonesia,JAWA TIMUR,PACITAN,TULAKAN,masjid,5.0,0.948863
+6,168024,Masjid Al Hikmah,MiniLM,Masjid Al-Hikam,Mbathok pager lor Pucangombo Kec Tegalombo Kabupaten Pacitan Jawa Timur 63582 Indonesia,JAWA TIMUR,PACITAN,TEGALOMBO,masjid,5.0,0.948863
+7,63849,Masjid Al Hikmah,MiniLM,Masjid Al Hikam,RT04/RW04 Dusun cikarut Cikeusi Kec Darmaraja Kabupaten Sumedang Jawa Barat 45372 Indonesia,JAWA BARAT,SUMEDANG,DARMARAJA,masjid,5.0,0.948863
+8,62241,Masjid Al Hikmah,MiniLM,Masjid Al Hikam,Sutawangi Jatiwangi Majalengka Regency West Java 45454 Indonesia,JAWA BARAT,MAJALENGKA,JATIWANGI,masjid,4.4,0.948863
+9,40038,Masjid Al Hikmah,MiniLM,Masjid al-hikam,Unnamed Road Sukamantri Kec Paseh Kabupaten Bandung Jawa Barat 40383 Indonesia,JAWA BARAT,BANDUNG,PASEH,masjid,0.0,0.948863
+10,184291,Masjid Al Hikmah,MiniLM,Masjid Al-Hikam,Arjoyoso Ampelgading Kec Tirtoyudo Kabupaten Malang Jawa Timur 65183 Indonesia,JAWA TIMUR,MALANG,AMPELGADING,masjid,5.0,0.94886297
+1,156957,Masjid Al Amin,MiniLM,Al Amin Masjid, Dusun II Dukuh Kemutug Lor Kec Baturaden Kabupaten Banyumas Jawa Tengah 53151 Indonesia,JAWA TENGAH,BANYUMAS,SUMBANG,masjid,48.0,0.9602469
+2,103513,Masjid Al Amin,MiniLM,Al Amin Masjid, Dusun II Dukuh Kemutug Lor Kec Baturaden Kabupaten Banyumas Jawa Tengah 53151 Indonesia,JAWA TENGAH,BANYUMAS,BATURRADEN,masjid,48.0,0.9602469
+3,196049,Masjid Al Amin,MiniLM,Mosque of al-Amin,Gambangan Bondowoso Regency East Java Indonesia,JAWA TIMUR,JEMBER,SUKOWONO,masjid,4.4,0.9548919
+4,156829,Masjid Al Amin,MiniLM,Masjid Al Aminah,Gandatapa Banyumas Regency Central Java Indonesia,JAWA TENGAH,BANYUMAS,SUMBANG,masjid,46.0,0.9477107
+5,29763,Masjid Al Amin,MiniLM,Masjid Al-Amin,Mekarsari Ciracap Sukabumi Regency West Java 43176 Indonesia,JAWA BARAT,SUKABUMI,CIRACAP,masjid,5.0,0.94663656
+6,24184,Masjid Al Amin,MiniLM,Masjid Al Amin,kp lewigoong Gintung Cilejet Parung Panjang Bogor Regency West Java 16360 Indonesia,JAWA BARAT,BOGOR,PARUNGPANJANG,masjid,4.5,0.94663656
+7,24131,Masjid Al Amin,MiniLM,Masjid Al-Amin,Parung Panjang Bogor Regency West Java Indonesia,JAWA BARAT,BOGOR,PARUNGPANJANG,masjid,4.9,0.94663656
+8,21609,Masjid Al Amin,MiniLM,Masjid Al Amin,Mosque ·  · Atas Bundaran 1 Jl Griya Alam Sentosa NoPerumahan,JAWA BARAT,BOGOR,CILEUNGSI,masjid,4.6,0.94663656
+9,20575,Masjid Al Amin,MiniLM,Masjid al Amin,Tlajung Udik Gunung Putri Bogor Regency West Java 16962 Indonesia,JAWA BARAT,BOGOR,GUNUNGPUTRI,masjid,4.7,0.94663656
+10,18334,Masjid Al Amin,MiniLM,Masjid Al Amin,North Gandaria South Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA SELATAN,KEBAYORAN BARU,masjid,4.8,0.94663656
+1,87768,Masjid Darussalam,MiniLM,Darussalam Mosque,Pasirluyu Bandung City West Java Indonesia,JAWA BARAT,KOTA BANDUNG,REGOL,masjid,4.7,0.9645003
+2,80841,Masjid Darussalam,MiniLM,Darussalam Mosque,Kawasan Karyadeka Pasirsari Cikarang Sel Kabupaten Bekasi Jawa Barat 17530 Indonesia,JAWA BARAT,BEKASI,CIKARANG SELATAN,masjid,4.7,0.9645003
+3,59151,Masjid Darussalam,MiniLM,Darussalam Mosque,Kedawung Cirebon West Java 45153 Indonesia,JAWA BARAT,CIREBON,KEDAWUNG,masjid,3.6,0.9645003
+4,59055,Masjid Darussalam,MiniLM,Darussalam Mosque,Kedawung Cirebon West Java 45153 Indonesia,JAWA BARAT,CIREBON,KEDAWUNG,masjid,3.6,0.9645003
+5,32752,Masjid Darussalam,MiniLM,Darussalam Mosque,Sukasari Cilaku Cianjur Regency West Java 43285 Indonesia,JAWA BARAT,CIANJUR,CILAKU,masjid,4.2,0.9645003
+6,19936,Masjid Darussalam,MiniLM,Darussalam Mosque,Ciangsana Bogor Regency West Java Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA TIMUR,CIRACAS,masjid,4.8,0.9645003
+7,15176,Masjid Darussalam,MiniLM,Darussalam Mosque,Bendungan Hilir Central Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA PUSAT,TANAH ABANG,masjid,4.9,0.9645003
+8,13788,Masjid Darussalam,MiniLM,Darussalam Mosque,Cempaka Putih South Tangerang City Banten Indonesia,BANTEN,KOTA TANGERANG SELATAN,CIPUTAT TIMUR,masjid,4.7,0.9645003
+9,6028,Masjid Darussalam,MiniLM,Darussalam Mosque,Pangkalan Teluknaga Tangerang Regency Banten 15510 Indonesia,BANTEN,TANGERANG,TELUKNAGA,masjid,4.8,0.9645003
+10,5914,Masjid Darussalam,MiniLM,Darussalam Mosque,Pangkalan Teluknaga Tangerang Regency Banten 15510 Indonesia,BANTEN,TANGERANG,TELUKNAGA,masjid,4.8,0.9645003
+1,50324,Masjid Baitul Makmur,MiniLM,Masjid Jami Panunggal,Kudadepa Sukahening Tasikmalaya Regency West Java 46155 Indonesia,JAWA BARAT,TASIKMALAYA,SUKAHENING,masjid,4.3,0.9514277
+2,28152,Masjid Baitul Makmur,MiniLM,Jami' Baiturrahmat Mosque,Cisarua Nagrak Sukabumi Regency West Java 43356 Indonesia,JAWA BARAT,SUKABUMI,NAGRAK,masjid,4.3,0.95131534
+3,197540,Masjid Baitul Makmur,MiniLM,Baitul Muttaqien Mosque,Dusun Petahunan Jajag Kec Gambiran Kabupaten Banyuwangi Jawa Timur 68486 Indonesia,JAWA TIMUR,BANYUWANGI,GAMBIRAN,masjid,4.8,0.9509598
+4,123637,Masjid Baitul Makmur,MiniLM,Baitul Muttaqien Mosque,Petarukan Pemalang Regency Central Java Indonesia,JAWA TENGAH,PEMALANG,PETARUKAN,masjid,47.0,0.9509598
+5,57591,Masjid Baitul Makmur,MiniLM,Baitul Muttaqien Mosque,Jl Griya Mertpada Asri Mertapada Wetan Kec Astanajapura Kabupaten Cirebon Jawa Barat 45181 Indonesia,JAWA BARAT,CIREBON,ASTANAJAPURA,masjid,4.1,0.9509598
+6,57498,Masjid Baitul Makmur,MiniLM,Baitul Muttaqien Mosque,Jl Griya Mertpada Asri Mertapada Wetan Kec Astanajapura Kabupaten Cirebon Jawa Barat 45181 Indonesia,JAWA BARAT,CIREBON,ASTANAJAPURA,masjid,4.1,0.9509598
+7,17176,Masjid Baitul Makmur,MiniLM,Baitul Muttaqien Mosque,RT3/RW8 Kemanggisan Palmerah West Jakarta City Jakarta 11480 Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA BARAT,PAL MERAH,masjid,5.0,0.9509598
+8,164376,Masjid Baitul Makmur,MiniLM,Baitul Muttaqien Mosque,Ambarketawang Sleman Regency Special Region of Yogyakarta Indonesia,DAERAH ISTIMEWA YOGYAKARTA,SLEMAN,GAMPING,masjid,49.0,0.9509597
+9,147639,Masjid Baitul Makmur,MiniLM,Roudhotul Muttaqien Mosque,Wonokerto Wetan Pekalongan Regency Central Java Indonesia,JAWA TENGAH,PEKALONGAN,WONOKERTO,masjid,4.0,0.9498018
+10,172352,Masjid Baitul Makmur,MiniLM,Baitul Muttaqiin Mosque,Jl Ki Mangun Sarkoro Dusun Talun Beji Kec Boyolangu Kabupaten Tulungagung Jawa Timur 66233 Indonesia,JAWA TIMUR,TULUNGAGUNG,TULUNGAGUNG,masjid,4.8,0.9489517

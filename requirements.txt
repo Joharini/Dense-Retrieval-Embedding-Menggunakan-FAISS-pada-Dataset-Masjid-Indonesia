@@ -1,0 +1,6 @@
+# Dependensi utama untuk iMosque: Dense Retrieval & Embedding (Kelompok 2)
+
+sentence-transformers>=3.0.0
+faiss-cpu>=1.7.0
+pandas>=2.0.0
+numpy>=1.24.0

@@ -1,0 +1,201 @@
+﻿rank,document_ID,query,model,name,address,provinsi,kabko,kecamatan,mosque_type,rating,similarity
+1,216593,Masjid Agung,BGE-M3,Masjid Agung,Unnamed Road Sumbersari Ngepeh Kec Loceret Kabupaten Nganjuk Jawa Timur 64471 Indonesia,JAWA TIMUR,NGANJUK,BERBEK,masjid,4.4,0.764948
+2,142711,Masjid Agung,BGE-M3,Masjid Agung, Karangsari Kec Pulosari Kabupaten Pemalang Jawa Tengah 52355 Indonesia,JAWA TENGAH,PEMALANG,PULOSARI,masjid,46.0,0.764948
+3,107381,Masjid Agung,BGE-M3,Masjid Agung, Jl Raya Timur Wanadadi Kayanan Banjarmangu Kec Banjarmangu Kab Banjarnegara Jawa Tengah 53452 Indonesia,JAWA TENGAH,BANJARNEGARA,BANJARMANGU,masjid,5.0,0.764948
+4,56290,Masjid Agung,BGE-M3,MASJID AGUNG,Jl Masjid Cilimus Kec Cilimus Kabupaten Kuningan Jawa Barat 45556 Indonesia,JAWA BARAT,KUNINGAN,CIGANDAMEKAR,masjid,4.3,0.764948
+5,31174,Masjid Agung,BGE-M3,Masjid agung,Unnamed Road Bantarsari Kec Pabuaran Kabupaten Sukabumi Jawa Barat 43173 Indonesia,JAWA BARAT,SUKABUMI,PABUARAN,masjid,0.0,0.764948
+6,62116,Masjid Agung,BGE-M3,Masjid agung,Cibentar Jatiwangi Majalengka Regency West Java 45454 Indonesia,JAWA BARAT,MAJALENGKA,JATIWANGI,masjid,0.0,0.76494795
+7,54916,Masjid Agung,BGE-M3,MASJID AGUNG,Jl Masjid Cilimus Kec Cilimus Kabupaten Kuningan Jawa Barat 45556 Indonesia,JAWA BARAT,KUNINGAN,CILIMUS,masjid,4.3,0.76494795
+8,51523,Masjid Agung,BGE-M3,Masjid Agung,Sindangrasa Ciamis Ciamis Regency West Java 46215 Indonesia,JAWA BARAT,CIAMIS,CIHAURBEUTI,masjid,4.8,0.76494795
+9,51003,Masjid Agung,BGE-M3,Masjid Agung,Sindangrasa Ciamis Ciamis Regency West Java 46215 Indonesia,JAWA BARAT,CIAMIS,CIAMIS,masjid,4.8,0.76494795
+10,50975,Masjid Agung,BGE-M3,Masjid Agung,Sukapancar Sukaresik Tasikmalaya Regency West Java 46418 Indonesia,JAWA BARAT,TASIKMALAYA,SUKARESIK,masjid,5.0,0.76494795
+1,242416,Masjid Istiqlal,BGE-M3,Masjid istiqlal,Mosque · Jl Pandegiling No258,JAWA TIMUR,KOTA SURABAYA,TEGALSARI,masjid,4.8,0.8572131
+2,169308,Masjid Istiqlal,BGE-M3,Masjid Istiqlal,Tempel Turi Kec Jetis Kabupaten Ponorogo Jawa Timur 63473 Indonesia,JAWA TIMUR,PONOROGO,JETIS,masjid,4.3,0.8572131
+3,150489,Masjid Istiqlal,BGE-M3,Masjid Istiqlal, Jl Kahuripan Utara Raya Sumber Kec Banjarsari Kota Surakarta Jawa Tengah 57138 Indonesia,JAWA TENGAH,KOTA SURAKARTA,BANJARSARI,masjid,5.0,0.8572131
+4,138439,Masjid Istiqlal,BGE-M3,Masjid Istiqlal, Dusun Wenoboyo Wonoboyo Dadapan Cemoro Kec Wonoboyo Kabupaten Temanggung Jawa Tengah 56266 Indonesia,JAWA TENGAH,TEMANGGUNG,WONOBOYO,masjid,0.0,0.8572131
+5,128777,Masjid Istiqlal,BGE-M3,Masjid Istiqlal, Julu Tlogorejo Kec Winong Kabupaten Pati Jawa Tengah 59181 Indonesia,JAWA TENGAH,PATI,WINONG,masjid,48.0,0.8572131
+6,121197,Masjid Istiqlal,BGE-M3,Masjid Istiqlal, Sokoalas Soka Karangdowo Klaten Regency Central Java 57464 Indonesia,JAWA TENGAH,KLATEN,KARANGDOWO,masjid,46.0,0.8572131
+7,116607,Masjid Istiqlal,BGE-M3,Masjid Istiqlal, Karangtengah Girirejo Kec Kaliangkrik Kabupaten Magelang Jawa Tengah 56153 Indonesia,JAWA TENGAH,MAGELANG,KALIANGKRIK,masjid,5.0,0.8572131
+8,101749,Masjid Istiqlal,BGE-M3,Masjid Istiqlal, Rejosari Kemiri Kec Mojosongo Kabupaten Boyolali Jawa Tengah 57482 Indonesia,JAWA TENGAH,BOYOLALI,MOJOSONGO,masjid,5.0,0.8572131
+9,27359,Masjid Istiqlal,BGE-M3,Masjid Masjid Istiqlal,JL Cibuhung Bantargadung Sukabumi Kabupaten Sukabumi Jawa Barat 43363 Indonesia,JAWA BARAT,SUKABUMI,BANTARGADUNG,masjid,0.0,0.834694
+10,130146,Masjid Istiqlal,BGE-M3,Masjid Al-Istiqlal,Kerjasan Pejaten Kudus Regency Central Java Indonesia,JAWA TENGAH,KUDUS,KOTA KUDUS,masjid,47.0,0.8061674
+1,87590,Masjid Raya Bandung,BGE-M3,Masjid bandung,Citarum Bandung Wetan Bandung City West Java 40115 Indonesia,JAWA BARAT,KOTA BANDUNG,BANDUNG WETAN,masjid,5.0,0.7440343
+2,236734,Masjid Raya Bandung,BGE-M3,Masjid Bandung,Bandung Tambelangan Kec Tambelangan Kabupaten Sampang Jawa Timur 69253 Indonesia,JAWA TIMUR,SAMPANG,TAMBELANGAN,masjid,5.0,0.74403423
+3,89022,Masjid Raya Bandung,BGE-M3,Masjid bandung,Cijaura Buahbatu Bandung City West Java 40287 Indonesia,JAWA BARAT,KOTA BANDUNG,BUAHBATU,masjid,5.0,0.74403423
+4,38322,Masjid Raya Bandung,BGE-M3,Masjid Agung Raya Bandung,Ancolmekar Arjasari Bandung Regency West Java 40379 Indonesia,JAWA BARAT,BANDUNG,ARJASARI,masjid,4.5,0.7431811
+5,236681,Masjid Raya Bandung,BGE-M3,Masjid Raya,Jl Raya Kecodur Kedundung Maeran Daleman Kec Kedungdung Kabupaten Sampang Jawa Timur 69252 Indonesia,JAWA TIMUR,SAMPANG,KEDUNGDUNG,masjid,4.5,0.736443
+6,181772,Masjid Raya Bandung,BGE-M3,Masjid Raya,Kepung Kediri Regency East Java Indonesia,JAWA TIMUR,KEDIRI,KEPUNG,masjid,5.0,0.736443
+7,89572,Masjid Raya Bandung,BGE-M3,Masjid Raya,Pasirwangi Bandung City West Java Indonesia,JAWA BARAT,KOTA BANDUNG,UJUNGBERUNG,masjid,4.7,0.736443
+8,225515,Masjid Raya Bandung,BGE-M3,MASJID RAYA BAITURRAHMAN,Mosque ·  Jl Raya PUD Brambang,JAWA TIMUR,BOJONEGORO,KEDUNGADEM,masjid,4.3,0.714301
+9,161949,Masjid Raya Bandung,BGE-M3,Masjid Raya Labbaik,Ngestiharjo Bantul Regency Special Region of Yogyakarta Indonesia,DAERAH ISTIMEWA YOGYAKARTA,BANTUL,KASIHAN,islamic_center,48.0,0.71143997
+10,186841,Masjid Raya Bandung,BGE-M3,Masjid Raya Jabung,Dusun Krajan Jabung Kec Jabung Kabupaten Malang Jawa Timur 65155 Indonesia,JAWA TIMUR,MALANG,JABUNG,masjid,4.7,0.70606124
+1,34437,Masjid Al Ikhlas,BGE-M3,Masjid Al-Iqhlas,Mosque · Kode Pos: Jl Kp Pasir Luhur Neglasari Kec Kadupandak Kab Cianjur Perovinsi Jawa Barat RT:04/RW:01,JAWA BARAT,CIANJUR,KADUPANDAK,masjid,0.0,0.9045793
+2,33089,Masjid Al Ikhlas,BGE-M3,Masjid Al-Iqhlas,Mosque · Jl Kp Pasir Luhur Neglasari Kec Kadupandak Kab Cianjur Perovinsi Jawa Barat RT:04/RW:01 Kode Pos:,JAWA BARAT,CIANJUR,BONJOGPICUNG,masjid,0.0,0.9045793
+3,119221,Masjid Al Ikhlas,BGE-M3,Masjid Al Iklhlas, Karang_mojo Sranten Kec Karanggede Kabupaten Boyolali Jawa Tengah 57381 Indonesia,JAWA TENGAH,BOYOLALI,KARANGGEDE,masjid,5.0,0.8924891
+4,2871,Masjid Al Ikhlas,BGE-M3,Masjid al ikahlas,Cisampang Gunungkencana Lebak Regency Banten 42354 Indonesia,BANTEN,LEBAK,GUNUNGKENCANA,masjid,0.0,0.88872474
+5,46762,Masjid Al Ikhlas,BGE-M3,Masjid Al Ihlas,Tonjong Pancatengah Tasikmalaya Regency West Java 46194 Indonesia,JAWA BARAT,TASIKMALAYA,PANCATENGAH,masjid,5.0,0.88486415
+6,46211,Masjid Al Ikhlas,BGE-M3,Masjid Al Ihlas,Cigadog Sucinaraja Garut Regency West Java 44115 Indonesia,JAWA BARAT,GARUT,SUCINARAJA,masjid,0.0,0.88486415
+7,45354,Masjid Al Ikhlas,BGE-M3,Masjid Al Ihlas,Mekarbakti Bungbulang Garut Regency West Java 44165 Indonesia,JAWA BARAT,GARUT,PAMULIHAN,masjid,5.0,0.88486415
+8,44217,Masjid Al Ikhlas,BGE-M3,Masjid Al-Ihlas,Sukawangi Singajaya Garut Regency West Java 44173 Indonesia,JAWA BARAT,GARUT,SINGAJAYA,masjid,0.0,0.88486415
+9,43359,Masjid Al Ikhlas,BGE-M3,Masjid Al Ihlas,Sindangsari Cigedug Garut Regency West Java 44116 Indonesia,JAWA BARAT,GARUT,CIGEDUG,masjid,5.0,0.88486415
+10,42890,Masjid Al Ikhlas,BGE-M3,Masjid Al ihlas,Campaka Malangbong Garut Regency West Java 44188 Indonesia,JAWA BARAT,GARUT,MALANGBONG,masjid,0.0,0.88486415
+1,39370,Masjid Nurul Huda,BGE-M3,Masjid Nurull Hudda,Jl Cibulakan Mekarsari Kec Pacet Kabupaten Bandung Jawa Barat 40385 Indonesia,JAWA BARAT,BANDUNG,PACET,masjid,5.0,0.87614375
+2,38438,Masjid Nurul Huda,BGE-M3,Masjid Nurulhuda,Jalan Cimaung Bandung Regency West Java 40374 Indonesia,JAWA BARAT,BANDUNG,CIMAUNG,masjid,4.8,0.8694165
+3,36283,Masjid Nurul Huda,BGE-M3,Masjid Nurulhuda,Ramasari Haurwangi Cianjur Regency West Java 43283 Indonesia,JAWA BARAT,CIANJUR,HAURWANGI,masjid,4.6,0.8694165
+4,33246,Masjid Nurul Huda,BGE-M3,Masjid Nurulhuda,Gg Ivay Sovian Jamali Kec Mande Kabupaten Cianjur Jawa Barat 43292 Indonesia,JAWA BARAT,CIANJUR,MANDE,masjid,5.0,0.8694165
+5,32566,Masjid Nurul Huda,BGE-M3,MASJID NURULHUDA,jln Raya Cibeber Jati Cimanggu Kec Cibeber Kabupaten Cianjur Jawa Barat 43262 Indonesia,JAWA BARAT,CIANJUR,CIBEBER,masjid,5.0,0.8694165
+6,31507,Masjid Nurul Huda,BGE-M3,masjid nurulhuda,Sukamanah Gegerbitung Sukabumi Regency West Java 43197 Indonesia,JAWA BARAT,SUKABUMI,GEGERBITUNG,masjid,5.0,0.8694165
+7,29483,Masjid Nurul Huda,BGE-M3,Masjid Nurulhuda,Sukaluyu Sukabumi Regency West Java Indonesia,JAWA BARAT,SUKABUMI,KALIBUNDER,masjid,0.0,0.8694165
+8,29482,Masjid Nurul Huda,BGE-M3,MASJID NURULHUDA,Sukaluyu Kalibunder Sukabumi Regency West Java 43185 Indonesia,JAWA BARAT,SUKABUMI,KALIBUNDER,masjid,0.0,0.8694165
+9,2999,Masjid Nurul Huda,BGE-M3,MASJID NURULHUDA,Mekarjaya Lebak Regency Banten Indonesia,BANTEN,LEBAK,CILELES,masjid,4.8,0.8694165
+10,166,Masjid Nurul Huda,BGE-M3,Masjid Nurulhuda,Mendung Cibaliung Pandeglang Regency Banten 42284 Indonesia,BANTEN,PANDEGLANG,CIBALIUNG,masjid,4.7,0.8694165
+1,149061,Masjid Jami,BGE-M3,Masjid Jammi,Bogares Kidul Tegal Regency Central Java Indonesia,JAWA TENGAH,TEGAL,KEDUNGBANTENG,masjid,5.0,0.8825301
+2,37556,Masjid Jami,BGE-M3,Masjid Jami,Banyusari Bandung Regency West Java Indonesia,JAWA BARAT,BANDUNG,KATAPANG,masjid,4.8,0.8534015
+3,33810,Masjid Jami,BGE-M3,Masjid jami,Unnamed Road Majalaya Kec Cikalongkulon Kabupaten Cianjur Jawa Barat 43291 Indonesia,JAWA BARAT,CIANJUR,CIKALONGKULON,masjid,5.0,0.8534015
+4,32688,Masjid Jami,BGE-M3,masjid jami,Sirnagalih Cilaku Cianjur Regency West Java 43285 Indonesia,JAWA BARAT,CIANJUR,CILAKU,masjid,5.0,0.8534015
+5,31089,Masjid Jami,BGE-M3,masjid jami,Titisan Sukalarang Sukabumi Regency West Java 43191 Indonesia,JAWA BARAT,SUKABUMI,SUKALARANG,masjid,0.0,0.8534015
+6,29823,Masjid Jami,BGE-M3,masjid jami,Ciracap Sukabumi Regency West Java 43176 Indonesia,JAWA BARAT,SUKABUMI,CIRACAP,masjid,4.5,0.8534015
+7,29579,Masjid Jami,BGE-M3,Masjid Jami,Wanasari Surade Sukabumi Regency West Java 43172 Indonesia,JAWA BARAT,SUKABUMI,SURADE,masjid,0.0,0.8534015
+8,24664,Masjid Jami,BGE-M3,Masjid jami,Cileungsi Ciawi Bogor Regency West Java 16720 Indonesia,JAWA BARAT,BOGOR,CIAWI,masjid,0.0,0.8534015
+9,12299,Masjid Jami,BGE-M3,Masjid Jami,Mekarsari Cilegon Banten Indonesia,BANTEN,KOTA CILEGON,PULOMERAK,masjid,0.0,0.8534015
+10,10525,Masjid Jami,BGE-M3,Masjid Jami,Cikolelet Cinangka Serang Regency Banten 42167 Indonesia,BANTEN,SERANG,CINANGKA,masjid,4.3,0.8534015
+1,5130,Mushola Al Hidayah,BGE-M3,Mushola al hidayah,Jl Kp Kb Klp Lembangsari Kec Rajeg Kabupaten Tangerang Banten 15540 Indonesia,BANTEN,TANGERANG,MAUK,mushola,5.0,0.92951465
+2,4797,Mushola Al Hidayah,BGE-M3,Mushola Al-Hidayah,Sondol Kemuning Kec Kresek Kabupaten Tangerang Banten 15620 Indonesia,BANTEN,TANGERANG,KRESEK,mushola,4.9,0.92951465
+3,4603,Mushola Al Hidayah,BGE-M3,Mushola Al Hidayah,Selapajang Tangerang Regency Banten Indonesia,BANTEN,TANGERANG,CISOKA,mushola,2.8,0.92951465
+4,4590,Mushola Al Hidayah,BGE-M3,Mushola Al Hidayah,Cibugel Tangerang Regency Banten Indonesia,BANTEN,TANGERANG,CISOKA,mushola,4.0,0.92951465
+5,4464,Mushola Al Hidayah,BGE-M3,Mushola Al-hidayah,Place of worship · Jl Ki Buyut Jarimin Jl Rancamaneuh NoKp RT002/RW003 Ds,BANTEN,TANGERANG,JAMBE,mushola,5.0,0.92951465
+6,4296,Mushola Al Hidayah,BGE-M3,Mushola Al-Hidayah,Kp Sikluk RT04/RW01 Pematang Kec Tigaraksa Kabupaten Tangerang Banten 15720 Indonesia,BANTEN,TANGERANG,TIGARAKSA,mushola,5.0,0.92951465
+7,3887,Mushola Al Hidayah,BGE-M3,"Mushola ""AL-HIDAYAH""",Parahu Tangerang Regency Banten Indonesia,BANTEN,TANGERANG,BALARAJA,mushola,5.0,0.92951465
+8,2004,Mushola Al Hidayah,BGE-M3,Mushola Al Hidayah,Sukaratu Pandeglang Regency Banten Indonesia,BANTEN,PANDEGLANG,KARANG TANJUNG,mushola,4.0,0.92951465
+9,1979,Mushola Al Hidayah,BGE-M3,"Mushola Al, hidayah",Jl Nagrek Cigadung Kec Karang Tj Kabupaten Pandeglang Banten 42251 Indonesia,BANTEN,PANDEGLANG,KARANG TANJUNG,mushola,5.0,0.92951465
+10,457,Mushola Al Hidayah,BGE-M3,Mushola Al Hidayah,RT05/RW04 Pangkalan Kec Sobang Kabupaten Pandeglang Banten 42281 Indonesia,BANTEN,PANDEGLANG,ANGSANA,mushola,5.0,0.92951465
+1,28631,Masjid Al Muttaqin,BGE-M3,Masjid Al Muttaqin,Sukakersa Parakansalak Sukabumi Regency West Java 43355 Indonesia,JAWA BARAT,SUKABUMI,PARAKANSALAK,masjid,5.0,0.9347714
+2,26367,Masjid Al Muttaqin,BGE-M3,Masjid Al Muttaqin,Tanjungsari Cijeruk Bogor Bogor Regency West Java 16840 Indonesia,JAWA BARAT,BOGOR,TANJUNGSARI,masjid,0.0,0.9347714
+3,24877,Masjid Al Muttaqin,BGE-M3,Masjid Al-Muttaqin,Kopo Cisarua Bogor Regency West Java 16750 Indonesia,JAWA BARAT,BOGOR,CISARUA,masjid,5.0,0.9347714
+4,21605,Masjid Al Muttaqin,BGE-M3,Masjid Al Muttaqin,Mosque · Jalan Jalur Pipa Pertamina Blok Rawa Bogo RT 01 / RW 06 Pasir Angin Cileungsi,JAWA BARAT,BOGOR,CILEUNGSI,masjid,4.8,0.9347714
+5,19361,Masjid Al Muttaqin,BGE-M3,Masjid Al-Muttaqin,North Cipinang Besar East Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA TIMUR,JATINEGARA,masjid,4.7,0.9347714
+6,14524,Masjid Al Muttaqin,BGE-M3,Masjid Al Muttaqin,Harapan Mulya Central Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA PUSAT,KEMAYORAN,masjid,4.8,0.9347714
+7,12694,Masjid Al Muttaqin,BGE-M3,Masjid Al Muttaqin,Jl Ciceri Jaya Sumurpecung Kec Serang Kota Serang Banten 42118 Indonesia,BANTEN,KOTA SERANG,SERANG,masjid,4.6,0.9347714
+8,4696,Masjid Al Muttaqin,BGE-M3,Masjid Al Muttaqin,Jl Cisoka Cilaban Cempaka Tangerang Kabupaten Tangerang Banten 15730 Indonesia,BANTEN,TANGERANG,CISOKA,masjid,5.0,0.9347714
+9,4694,Masjid Al Muttaqin,BGE-M3,Masjid Al Muttaqin,Karangharja Tangerang Regency Banten Indonesia,BANTEN,TANGERANG,CISOKA,masjid,5.0,0.9347714
+10,4683,Masjid Al Muttaqin,BGE-M3,Masjid Al Muttaqin,JL Pasanggrahan Cisoka Pasanggrahan Tangerang Kabupaten Tangerang Banten 15730 Indonesia,BANTEN,TANGERANG,CISOKA,masjid,5.0,0.9347714
+1,4712,Masjid Baiturrahman,BGE-M3,Masjid Baiturrahman,Cibugel Cisoka Tangerang Regency Banten 15730 Indonesia,BANTEN,TANGERANG,CISOKA,masjid,4.4,0.93207854
+2,4174,Masjid Baiturrahman,BGE-M3,Masjid Baiturrahman,Jl Imam Bonjol RT002/RW005 Bojong Jaya Kec Karawaci Kota Tangerang Banten 15115 Indonesia,BANTEN,TANGERANG,TIGARAKSA,masjid,4.7,0.93207854
+3,3103,Masjid Baiturrahman,BGE-M3,Masjid Baiturrahman,Tangkak Johor Malaysia,BANTEN,LEBAK,CIMARGA,masjid,4.7,0.93207854
+4,3066,Masjid Baiturrahman,BGE-M3,Masjid BAITURRAHMAN,Kpkebon kopi Gn Anten Kec Cimarga Kabupaten Lebak Banten 42361 Indonesia,BANTEN,LEBAK,CIMARGA,masjid,5.0,0.93207854
+5,3029,Masjid Baiturrahman,BGE-M3,Masjid Baiturrahman,Mosque ·  ·  Jl Raya Cileles-Gunung kencana,BANTEN,LEBAK,CILELES,masjid,4.4,0.93207854
+6,2818,Masjid Baiturrahman,BGE-M3,Masjid Baiturrahman,Jl Raya Cileles-Gunung kencana Lebak Kec Cileles Kabupaten Lebak Banten 42353 Indonesia,BANTEN,LEBAK,CILELES,masjid,4.3,0.93207854
+7,2036,Masjid Baiturrahman,BGE-M3,Masjid Baiturrahman,Kadumerak Karang Tanjung Pandeglang Regency Banten 42251 Indonesia,BANTEN,PANDEGLANG,KARANG TANJUNG,masjid,5.0,0.93207854
+8,949,Masjid Baiturrahman,BGE-M3,Masjid Baiturrahman,Pasir Panjang Picung Pasirsedang Kec Picung Kabupaten Pandeglang Banten 42275 Indonesia,BANTEN,PANDEGLANG,PICUNG,masjid,0.0,0.93207854
+9,215,Masjid Baiturrahman,BGE-M3,Masjid Baiturrahman,Umbulan Pandeglang Regency Banten Indonesia,BANTEN,PANDEGLANG,CIKEUSIK,masjid,4.8,0.93207854
+10,101,Masjid Baiturrahman,BGE-M3,Masjid Baiturrahman,Mangkualam Cimanggu Pandeglang Regency Banten 42284 Indonesia,BANTEN,PANDEGLANG,CIMANGGU,masjid,5.0,0.93207854
+1,2692,Masjid At Taqwa,BGE-M3,masjid at-taqwa,kp leuwisema Haurgajrug Kec Cipanas Kabupaten Lebak Banten 42372 Indonesia,BANTEN,LEBAK,CIPANAS,masjid,4.6,0.89712685
+2,2639,Masjid At Taqwa,BGE-M3,Masjid AT TAQWA,Kampung Bujal Kec Cipanas Kabupaten Lebak Banten 42372 Indonesia,BANTEN,LEBAK,CIPANAS,masjid,4.7,0.89712685
+3,2339,Masjid At Taqwa,BGE-M3,masjid at'taqwa,Gerendong Koroncong Pandeglang Regency Banten 42251 Indonesia,BANTEN,PANDEGLANG,KORONCONG,masjid,5.0,0.89712685
+4,2270,Masjid At Taqwa,BGE-M3,Masjid At Taqwa,kptarikolot Bojongmanik Kec Sindangresmi Kabupaten Pandeglang Banten 42276 Indonesia,BANTEN,PANDEGLANG,SINDANGRESMI,masjid,5.0,0.89712685
+5,2120,Masjid At Taqwa,BGE-M3,Masjid At Taqwa,Kiarajangkung Cibitung Pandeglang Regency Banten 42285 Indonesia,BANTEN,PANDEGLANG,CIBITUNG,masjid,0.0,0.89712685
+6,1406,Masjid At Taqwa,BGE-M3,Masjid At Taqwa,Mandalawangi Mandalawangi Cikoneng Pandeglang Kabupaten Pandeglang Banten 42261 Indonesia,BANTEN,PANDEGLANG,MANDALAWANGI,masjid,3.0,0.89712685
+7,1081,Masjid At Taqwa,BGE-M3,Masjid At Taqwa,Unnamed Road Parigi Kec Saketi Kabupaten Pandeglang Banten 42273 Indonesia,BANTEN,PANDEGLANG,SAKETI,masjid,4.4,0.89712685
+8,1021,Masjid At Taqwa,BGE-M3,Masjid At-Taqwa,Pasir Waru Kec Menes Kabupaten Pandeglang Banten 42262 Indonesia,BANTEN,PANDEGLANG,MENES,masjid,4.6,0.89712685
+9,952,Masjid At Taqwa,BGE-M3,Masjid At-taqwa,Pasirsedang Picung Pandeglang Regency Banten 42275 Indonesia,BANTEN,PANDEGLANG,PICUNG,masjid,0.0,0.89712685
+10,504,Masjid At Taqwa,BGE-M3,Masjid at-Taqwa,Pasanggrahan Munjul Pandeglang Regency Banten 42276 Indonesia,BANTEN,PANDEGLANG,MUNJUL,masjid,5.0,0.89712685
+1,3617,Masjid Al Falah,BGE-M3,Masjid Al Falah,Unnamed Road Muara Kec Wanasalam Kabupaten Lebak Banten 42396 Indonesia,BANTEN,LEBAK,WANASALAM,masjid,5.0,0.92714506
+2,3091,Masjid Al Falah,BGE-M3,Masjid Al Falah,Kampung Margatirta Cimarga Margatirta Rangkasbitung Kabupaten Lebak Banten 42361 Indonesia,BANTEN,LEBAK,CIMARGA,masjid,0.0,0.92714506
+3,2821,Masjid Al Falah,BGE-M3,Masjid Al Falah,Raya Gunung Kencana Keusik Kec Banjarsari Kabupaten Lebak Banten 42355 Indonesia,BANTEN,LEBAK,GUNUNGKENCANA,masjid,4.3,0.92714506
+4,1504,Masjid Al Falah,BGE-M3,Masjid Al-Falah,Kupahandap Cimanuk Pandeglang Regency Banten 42271 Indonesia,BANTEN,PANDEGLANG,MANDALAWANGI,masjid,4.4,0.92714506
+5,1478,Masjid Al Falah,BGE-M3,Masjid Al Falah,Sirnagalih Mandalawangi Cikoneng Pandeglang Kabupaten Pandeglang Banten 42261 Indonesia,BANTEN,PANDEGLANG,MANDALAWANGI,masjid,0.0,0.92714506
+6,1039,Masjid Al Falah,BGE-M3,Masjid Al-Falah,Mosque ·  Kampung Rengat Hilir Menes,BANTEN,PANDEGLANG,MENES,masjid,0.0,0.92714506
+7,931,Masjid Al Falah,BGE-M3,Masjid Al Falah,Pasirsedang Picung Pandeglang Regency Banten 42275 Indonesia,BANTEN,PANDEGLANG,PICUNG,masjid,0.0,0.92714506
+8,494,Masjid Al Falah,BGE-M3,Masjid Al-Falah,Kampung Sudimana Munjul Kec Munjul Kabupaten Pandeglang Banten 42276 Indonesia,BANTEN,PANDEGLANG,MUNJUL,masjid,0.0,0.92714506
+9,389,Masjid Al Falah,BGE-M3,Masjid Al falah,Karet Panimbang Tanjungjaya Kec Panimbang Kabupaten Pandeglang Banten 42281 Indonesia,BANTEN,PANDEGLANG,PANIMBANG,masjid,0.0,0.92714506
+10,218,Masjid Al Falah,BGE-M3,Masjid AL- FALAH,Nanggala Pandeglang Regency Banten Indonesia,BANTEN,PANDEGLANG,CIKEUSIK,masjid,4.7,0.92714506
+1,169308,Masjid Istiqlal Jakarta,BGE-M3,Masjid Istiqlal,Tempel Turi Kec Jetis Kabupaten Ponorogo Jawa Timur 63473 Indonesia,JAWA TIMUR,PONOROGO,JETIS,masjid,4.3,0.8251267
+2,150489,Masjid Istiqlal Jakarta,BGE-M3,Masjid Istiqlal, Jl Kahuripan Utara Raya Sumber Kec Banjarsari Kota Surakarta Jawa Tengah 57138 Indonesia,JAWA TENGAH,KOTA SURAKARTA,BANJARSARI,masjid,5.0,0.8251267
+3,128777,Masjid Istiqlal Jakarta,BGE-M3,Masjid Istiqlal, Julu Tlogorejo Kec Winong Kabupaten Pati Jawa Tengah 59181 Indonesia,JAWA TENGAH,PATI,WINONG,masjid,48.0,0.8251267
+4,242416,Masjid Istiqlal Jakarta,BGE-M3,Masjid istiqlal,Mosque · Jl Pandegiling No258,JAWA TIMUR,KOTA SURABAYA,TEGALSARI,masjid,4.8,0.8251265
+5,138439,Masjid Istiqlal Jakarta,BGE-M3,Masjid Istiqlal, Dusun Wenoboyo Wonoboyo Dadapan Cemoro Kec Wonoboyo Kabupaten Temanggung Jawa Tengah 56266 Indonesia,JAWA TENGAH,TEMANGGUNG,WONOBOYO,masjid,0.0,0.8251265
+6,121197,Masjid Istiqlal Jakarta,BGE-M3,Masjid Istiqlal, Sokoalas Soka Karangdowo Klaten Regency Central Java 57464 Indonesia,JAWA TENGAH,KLATEN,KARANGDOWO,masjid,46.0,0.8251265
+7,116607,Masjid Istiqlal Jakarta,BGE-M3,Masjid Istiqlal, Karangtengah Girirejo Kec Kaliangkrik Kabupaten Magelang Jawa Tengah 56153 Indonesia,JAWA TENGAH,MAGELANG,KALIANGKRIK,masjid,5.0,0.8251265
+8,101749,Masjid Istiqlal Jakarta,BGE-M3,Masjid Istiqlal, Rejosari Kemiri Kec Mojosongo Kabupaten Boyolali Jawa Tengah 57482 Indonesia,JAWA TENGAH,BOYOLALI,MOJOSONGO,masjid,5.0,0.8251265
+9,14382,Masjid Istiqlal Jakarta,BGE-M3,Madrasah Istiqlal Jakarta,Pasar Baru Central Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA PUSAT,SAWAH BESAR,islamic_center,4.6,0.80051595
+10,27359,Masjid Istiqlal Jakarta,BGE-M3,Masjid Masjid Istiqlal,JL Cibuhung Bantargadung Sukabumi Kabupaten Sukabumi Jawa Barat 43363 Indonesia,JAWA BARAT,SUKABUMI,BANTARGADUNG,masjid,0.0,0.79962605
+1,49997,Masjid Agung Tasikmalaya,BGE-M3,Masjid Agung Tasikmalaya,Yudanagara Tasikmalaya Regency West Java Indonesia,JAWA BARAT,TASIKMALAYA,SUKARATU,masjid,4.8,0.8798506
+2,47430,Masjid Agung Tasikmalaya,BGE-M3,Masjid Agung Tasikmalaya,Yudanagara Tasikmalaya Regency West Java Indonesia,JAWA BARAT,TASIKMALAYA,BOJONGASIH,masjid,4.8,0.8798506
+3,49423,Masjid Agung Tasikmalaya,BGE-M3,Masjid Agung Kab. Tasikmalaya,Sukamulya Tasikmalaya Regency West Java Indonesia,JAWA BARAT,TASIKMALAYA,MANGUNREJA,masjid,4.6,0.8489301
+4,49266,Masjid Agung Tasikmalaya,BGE-M3,Masjid Agung Kab. Tasikmalaya,Sukamulya Tasikmalaya Regency West Java Indonesia,JAWA BARAT,TASIKMALAYA,SINGAPARNA,masjid,4.6,0.8489301
+5,126615,Masjid Agung Tasikmalaya,BGE-M3,Masjid Agung Tasikagung, Rembangan Tasikagung Rembang Rembang Regency Central Java 59212 Indonesia,JAWA TENGAH,REMBANG,REMBANG,masjid,45.0,0.807163
+6,47040,Masjid Agung Tasikmalaya,BGE-M3,"Masjid Agung Cibalong, Kabupaten Tasikmalaya",Girikencana Parungponteng Tasikmalaya Regency West Java 46185 Indonesia,JAWA BARAT,TASIKMALAYA,CIBALONG,masjid,4.5,0.77900404
+7,93790,Masjid Agung Tasikmalaya,BGE-M3,MASJID AL - MAKKAH STASIUN TASIKMALAYA,Tawangsari Tasikmalaya Regency West Java Indonesia,JAWA BARAT,KOTA TASIKMALAYA,TAWANG,masjid,4.6,0.75656676
+8,49785,Masjid Agung Tasikmalaya,BGE-M3,MASJID AL - MAKKAH STASIUN TASIKMALAYA,Tawangsari Tasikmalaya Regency West Java Indonesia,JAWA BARAT,TASIKMALAYA,PADAKEMBANG,masjid,4.6,0.75656676
+9,39705,Masjid Agung Tasikmalaya,BGE-M3,Masjid Agung Majalaya,Majalaya Bandung Regency West Java Indonesia,JAWA BARAT,BANDUNG,MAJALAYA,masjid,4.8,0.7357851
+10,171655,Masjid Agung Tasikmalaya,BGE-M3,Masjid Jami' Tasikmadu,Jl Raya Prigi Ketawang Tasikmadu Kec Watulimo Kabupaten Trenggalek Jawa Timur 66382 Indonesia,JAWA TIMUR,TRENGGALEK,WATULIMO,masjid,5.0,0.72737646
+1,692,Masjid Agung Menes,BGE-M3,Masjid Agung Menes (Pandeglang),Jl Perintis Kemerdekaan No02 Purwaraja Kec Menes Kabupaten Pandeglang Banten 42262 Indonesia,BANTEN,PANDEGLANG,BOJONG,masjid,4.4,0.75165194
+2,123775,Masjid Agung Menes,BGE-M3,Masjid Agung Manang, Jl Mangesti Raya Dusun II Manang Kec Grogol Kabupaten Sukoharjo Jawa Tengah 57552 Indonesia,JAWA TENGAH,SUKOHARJO,GROGOL,masjid,47.0,0.7393931
+3,1016,Masjid Agung Menes,BGE-M3,Masjid Mujahidin PCM Menes,Jl Ciputri Purwaraja Kec Menes Kabupaten Pandeglang Banten 42262 Indonesia,BANTEN,PANDEGLANG,MENES,masjid,5.0,0.71402484
+4,27976,Masjid Agung Menes,BGE-M3,Mesjid besar,Jl Monas Kertaraharja Kec Cikembar Kabupaten Sukabumi Jawa Barat 43157 Indonesia,JAWA BARAT,SUKABUMI,CIKEMBAR,masjid,4.0,0.7014155
+5,145273,Masjid Agung Menes,BGE-M3,Masjid Agung Magelang,Cacaban Magelang City Central Java Indonesia,JAWA TENGAH,KOTA MAGELANG,MAGELANG SELATAN,masjid,48.0,0.6998929
+6,116334,Masjid Agung Menes,BGE-M3,Masjid Agung Magelang,Cacaban Magelang City Central Java Indonesia,JAWA TENGAH,MAGELANG,MERTOYUDAN,masjid,48.0,0.6998929
+7,103953,Masjid Agung Menes,BGE-M3,Masjid Agung Magelang,Cacaban Magelang City Central Java Indonesia,JAWA TENGAH,KOTA MAGELANG,MAGELANG SELATAN,masjid,48.0,0.6998929
+8,101129,Masjid Agung Menes,BGE-M3,Masjid Agung Magelang,Cacaban Magelang City Central Java Indonesia,JAWA TENGAH,MAGELANG,NGABLAK,masjid,48.0,0.6998929
+9,107381,Masjid Agung Menes,BGE-M3,Masjid Agung, Jl Raya Timur Wanadadi Kayanan Banjarmangu Kec Banjarmangu Kab Banjarnegara Jawa Tengah 53452 Indonesia,JAWA TENGAH,BANJARNEGARA,BANJARMANGU,masjid,5.0,0.69780517
+10,56290,Masjid Agung Menes,BGE-M3,MASJID AGUNG,Jl Masjid Cilimus Kec Cilimus Kabupaten Kuningan Jawa Barat 45556 Indonesia,JAWA BARAT,KUNINGAN,CIGANDAMEKAR,masjid,4.3,0.69780517
+1,974,Masjid Nurul Iman,BGE-M3,Masjid Nurul Iman,Siruang Caringin Labuan Kalanganyar Pandeglang Kabupaten Pandeglang Banten 42264 Indonesia,BANTEN,PANDEGLANG,LABUAN,masjid,0.0,0.8771713
+2,948,Masjid Nurul Iman,BGE-M3,Masjid Nurul-Iman,Cililitan Picung Pandeglang Regency Banten 42275 Indonesia,BANTEN,PANDEGLANG,PICUNG,masjid,0.0,0.8771713
+3,688,Masjid Nurul Iman,BGE-M3,Masjid Nurul Iman,Kampung Jl Bojong Canar Menes Pandeglang Kabupaten Pandeglang Banten 42262 Indonesia,BANTEN,PANDEGLANG,BOJONG,masjid,3.5,0.8771713
+4,674,Masjid Nurul Iman,BGE-M3,Masjid NURUL IMAN,Citumenggung Bojong Pandeglang Regency Banten 42274 Indonesia,BANTEN,PANDEGLANG,BOJONG,masjid,2.7,0.8771713
+5,630,Masjid Nurul Iman,BGE-M3,Masjid Nurul iman,Sukadame Pagelaran Pandeglang Regency Banten 42265 Indonesia,BANTEN,PANDEGLANG,PAGELARAN,masjid,0.0,0.8771713
+6,627,Masjid Nurul Iman,BGE-M3,Masjid Nurul Iman,Sukadame Pagelaran Pandeglang Regency Banten 42265 Indonesia,BANTEN,PANDEGLANG,PAGELARAN,masjid,0.0,0.8771713
+7,544,Masjid Nurul Iman,BGE-M3,Masjid NURUL IMAN,Munjul Pandeglang Regency Banten 42276 Indonesia,BANTEN,PANDEGLANG,MUNJUL,masjid,0.0,0.8771713
+8,316,Masjid Nurul Iman,BGE-M3,Masjid Nurul iman,Waringinjaya Cigeulis Pandeglang Regency Banten 42282 Indonesia,BANTEN,PANDEGLANG,CIGEULIS,masjid,0.0,0.8771713
+9,172,Masjid Nurul Iman,BGE-M3,Masjid Nurul iman,Sudimanik-Cikeusik Curug Kec Cibaliung Kabupaten Pandeglang Banten 42285 Indonesia,BANTEN,PANDEGLANG,CIBALIUNG,masjid,2.0,0.8771713
+10,63,Masjid Nurul Iman,BGE-M3,Masjid Nurul Iman,Garung Sumur Kertajaya Kec Sumur Kabupaten Pandeglang Banten 42283 Indonesia,BANTEN,PANDEGLANG,SUMUR,masjid,0.0,0.8771713
+1,201571,Islamic Center,BGE-M3,Islamic Center,Capgawen Kedungwuni Tim Kec Kedungwuni Kabupaten Pekalongan Jawa Tengah 51173 Indonesia,JAWA TIMUR,SITUBONDO,MANGARAN,islamic_center,4.5,0.8648001
+2,165251,Islamic Center,BGE-M3,Islamic Center, Prenggan Kotagede Yogyakarta City Special Region of Yogyakarta 55172 Indonesia,DAERAH ISTIMEWA YOGYAKARTA,SLEMAN,BERBAH,islamic_center,5.0,0.8648001
+3,161424,Islamic Center,BGE-M3,Islamic Center, Prenggan Kotagede Yogyakarta City Special Region of Yogyakarta 55172 Indonesia,DAERAH ISTIMEWA YOGYAKARTA,BANTUL,BANGUNTAPAN,islamic_center,5.0,0.8648001
+4,154928,Islamic Center,BGE-M3,Islamic Center, Dusun Tengah Maos Lor Kec Maos Kabupaten Cilacap Jawa Tengah 53272 Indonesia,JAWA TENGAH,CILACAP,MAOS,islamic_center,41.0,0.8648001
+5,150978,Islamic Center,BGE-M3,Islamic center,none,JAWA TENGAH,BREBES,SALEM,islamic_center,44.0,0.8648001
+6,124300,Islamic Center,BGE-M3,Islamic center,Pasar Batang Brebes Regency Central Java Indonesia,JAWA TENGAH,BREBES,BANTARKAWUNG,islamic_center,44.0,0.8648001
+7,123770,Islamic Center,BGE-M3,Islamic Center, Gg Diponegoro 2 Mulyoharjo Kec Pemalang Kabupaten Pemalang Jawa Tengah 52313 Indonesia,JAWA TENGAH,PEMALANG,ULUJAMI,islamic_center,0.0,0.8648001
+8,113735,Islamic Center,BGE-M3,Islamic Center, Jl Pemuda Kedungdoro Leteh Kec Rembang Kabupaten Rembang Jawa Tengah 59217 Indonesia,JAWA TENGAH,REMBANG,SULANG,islamic_center,0.0,0.8648001
+9,94567,Islamic Center,BGE-M3,ISLAMIC CENTER,Jl Cidugaleun Tanjungjaya Kec Cisaga Kabupaten Ciamis Jawa Barat 46386 Indonesia,JAWA BARAT,KOTA BANJAR,PATARUMAN,islamic_center,0.0,0.8648001
+10,14210,Islamic Center,BGE-M3,Islamic Center,Jl Almanar Angsau Kec Pelaihari Kabupaten Tanah Laut Kalimantan Selatan 70812 Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,ADMINISTRASI KEPULAUAN SERIBU,KEPULAUAN SERIBU SELATAN,islamic_center,4.5,0.8648001
+1,24878,Masjid Al Hikmah,BGE-M3,MASJID AL-HIIKMAH,Cisarua Bogor Regency West Java Indonesia,JAWA BARAT,BOGOR,CISARUA,masjid,5.0,0.8881962
+2,50491,Masjid Al Hikmah,BGE-M3,Masjid Alhikmah,Manggungsari Rajapolah Tasikmalaya Regency West Java 46155 Indonesia,JAWA BARAT,TASIKMALAYA,RAJAPOLAH,masjid,0.0,0.8876065
+3,47821,Masjid Al Hikmah,BGE-M3,Masjid Alhikmah,Deudeul Taraju Tasikmalaya Regency West Java 46474 Indonesia,JAWA BARAT,TASIKMALAYA,TARAJU,masjid,0.0,0.8876065
+4,44863,Masjid Al Hikmah,BGE-M3,Masjid Alhikmah,Junti Linggamanik Kec Cikelet Kabupaten Garut Jawa Barat 44177 Indonesia,JAWA BARAT,GARUT,CIKELET,masjid,0.0,0.8876065
+5,42288,Masjid Al Hikmah,BGE-M3,Masjid AlHikmah,Kp babakan galumpit RT02/RW07 Rancasalak Kec Kadungora Kabupaten Garut Jawa Barat 44153 Indonesia,JAWA BARAT,GARUT,KADUNGORA,masjid,0.0,0.8876065
+6,32583,Masjid Al Hikmah,BGE-M3,Masjid Alhikmah,Girimulya Cibeber Cianjur Regency West Java 43262 Indonesia,JAWA BARAT,CIANJUR,CIBEBER,masjid,5.0,0.8876065
+7,30382,Masjid Al Hikmah,BGE-M3,masjid Alhikmah,Pasir Datar Indah Sukabumi Regency West Java Indonesia,JAWA BARAT,SUKABUMI,CARINGIN,masjid,5.0,0.8876065
+8,30066,Masjid Al Hikmah,BGE-M3,masjid alhikmah,Sikadamai Cicantayan Sukabumi Regency West Java 43155 Indonesia,JAWA BARAT,SUKABUMI,CICANTAYAN,masjid,4.7,0.8876065
+9,30019,Masjid Al Hikmah,BGE-M3,masjid alhikmah,Sikadamai Cicantayan Sukabumi Regency West Java 43155 Indonesia,JAWA BARAT,SUKABUMI,CICANTAYAN,masjid,5.0,0.8876065
+10,29262,Masjid Al Hikmah,BGE-M3,Masjid Alhikmah,Jl Cijami Padajaya Kec Jampang Kulon Kabupaten Sukabumi Jawa Barat 43178 Indonesia,JAWA BARAT,SUKABUMI,JAMPANGKULON,masjid,0.0,0.8876065
+1,233747,Masjid Al Amin,BGE-M3,Masjid Al-Amin,Jl Sabang Jegong Sidorukun Kec Gresik Kabupaten Gresik Jawa Timur 61119 Indonesia,JAWA TIMUR,GRESIK,KEDAMEAN,masjid,4.8,0.91079247
+2,230504,Masjid Al Amin,BGE-M3,Masjid Al Amin,Mosque ·  Tuwong Ngimbang,JAWA TIMUR,LAMONGAN,NGIMBANG,masjid,4.0,0.91079247
+3,199779,Masjid Al Amin,BGE-M3,Masjid Al-Amin,Perum Pancoran Mas Pd Pancoran Mas Pancoran Kec Bondowoso Kabupaten Bondowoso Jawa Timur 68219 Indonesia,JAWA TIMUR,BONDOWOSO,TAMANAN,masjid,4.8,0.91079247
+4,112423,Masjid Al Amin,BGE-M3,Masjid Al Amin, Condong Kulon Condongsari Kec Banyuurip Kabupaten Purworejo Jawa Tengah 54171 Indonesia,JAWA TENGAH,PURWOREJO,BANYUURIP,masjid,45.0,0.91079247
+5,24184,Masjid Al Amin,BGE-M3,Masjid Al Amin,kp lewigoong Gintung Cilejet Parung Panjang Bogor Regency West Java 16360 Indonesia,JAWA BARAT,BOGOR,PARUNGPANJANG,masjid,4.5,0.9107924
+6,21609,Masjid Al Amin,BGE-M3,Masjid Al Amin,Mosque ·  · Atas Bundaran 1 Jl Griya Alam Sentosa NoPerumahan,JAWA BARAT,BOGOR,CILEUNGSI,masjid,4.6,0.9107924
+7,20575,Masjid Al Amin,BGE-M3,Masjid al Amin,Tlajung Udik Gunung Putri Bogor Regency West Java 16962 Indonesia,JAWA BARAT,BOGOR,GUNUNGPUTRI,masjid,4.7,0.9107924
+8,18334,Masjid Al Amin,BGE-M3,Masjid Al Amin,North Gandaria South Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA SELATAN,KEBAYORAN BARU,masjid,4.8,0.9107924
+9,16177,Masjid Al Amin,BGE-M3,MASJID AL AMIN,East Kelapa Gading North Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA UTARA,KELAPA GADING,masjid,5.0,0.9107924
+10,12493,Masjid Al Amin,BGE-M3,Masjid Al Amin,Jl Puri Krakatau Hijau Kotasari Kec Gerogol Kota Cilegon Banten 42436 Indonesia,BANTEN,KOTA CILEGON,GEROGOL,masjid,4.7,0.9107924
+1,216697,Masjid Darussalam,BGE-M3,"Masjid ""DAARUSSALAM""",Jl Merapi Bedingin Sukorejo Kec Loceret Kabupaten Nganjuk Jawa Timur 64471 Indonesia,JAWA TIMUR,NGANJUK,LOCERET,masjid,4.4,0.8719568
+2,215203,Masjid Darussalam,BGE-M3,Masjid Daarussalam,Gedang Ploso Tembelang Kec Jombang Kabupaten Jombang Jawa Timur 61453 Indonesia,JAWA TIMUR,JOMBANG,PLOSO,masjid,0.0,0.8719568
+3,150305,Masjid Darussalam,BGE-M3,Masjid Daarussalam,Limbangan Brebes Regency Central Java Indonesia,JAWA TENGAH,BREBES,KERSANA,masjid,43.0,0.8719568
+4,131775,Masjid Darussalam,BGE-M3,Masjid Daarussalam,Jobokuto Jepara Regency Central Java Indonesia,JAWA TENGAH,JEPARA,JEPARA,masjid,0.0,0.8719568
+5,58617,Masjid Darussalam,BGE-M3,Masjid Daarussalam,Slangit Klangenan Cirebon West Java 45156 Indonesia,JAWA BARAT,CIREBON,PALIMANAN,masjid,4.9,0.8719568
+6,9439,Masjid Darussalam,BGE-M3,Masjid DARUSSALAM,Mosque · Jl Sadewa Blok No Jl Sadewa Blok H15 No3,BANTEN,SERANG,CIKANDE,masjid,4.0,0.8702526
+7,9266,Masjid Darussalam,BGE-M3,Masjid Darussalam,laban Puser Kec Tirtayasa Kabupaten Serang Banten 42193 Indonesia,BANTEN,SERANG,TIRTAYASA,masjid,4.3,0.8702526
+8,8662,Masjid Darussalam,BGE-M3,Masjid Darussalam,Jl Wadasari Ciranggon Kec Bojonegara Kabupaten Serang Banten 42454 Indonesia,BANTEN,SERANG,BOJONEGARA,masjid,4.5,0.8702526
+9,8022,Masjid Darussalam,BGE-M3,Masjid Darussalam,Cikasungka Tangerang Regency Banten Indonesia,BANTEN,TANGERANG,SOLEAR,masjid,4.9,0.8702526
+10,6700,Masjid Darussalam,BGE-M3,Masjid Darussalam,Jl Mulya Asri 1 Sukamulya Kec Cikupa Kabupaten Tangerang Banten 15710 Indonesia,BANTEN,TANGERANG,CIKUPA,masjid,4.7,0.8702526
+1,189778,Masjid Baitul Makmur,BGE-M3,Masjid Bahtul Makmur,Candi Lor Sumberejo Kec Candipuro Kabupaten Lumajang Jawa Timur 67373 Indonesia,JAWA TIMUR,LUMAJANG,CANDIPURO,masjid,0.0,0.8605168
+2,191103,Masjid Baitul Makmur,BGE-M3,Masjid Bhaitul Makmur,Kloposawit Bodang Kec Padang Kabupaten Lumajang Jawa Timur 67352 Indonesia,JAWA TIMUR,LUMAJANG,PADANG,masjid,4.8,0.8416147
+3,49483,Masjid Baitul Makmur,BGE-M3,Masjid Baitul Makmur,Sukarame Tasikmalaya Regency West Java 46461 Indonesia,JAWA BARAT,TASIKMALAYA,SUKARAME,masjid,4.7,0.84037465
+4,42252,Masjid Baitul Makmur,BGE-M3,Masjid Baitul Makmur,Talagasari Kadungora Garut Regency West Java 44153 Indonesia,JAWA BARAT,GARUT,KADUNGORA,masjid,5.0,0.84037465
+5,24172,Masjid Baitul Makmur,BGE-M3,MASJID BAITUL MAKMUR,Kabasiran Bogor Regency West Java Indonesia,JAWA BARAT,BOGOR,PARUNGPANJANG,masjid,5.0,0.84037465
+6,21218,Masjid Baitul Makmur,BGE-M3,Masjid Baitul makmur,desa pendua Sentul Kec Babakan Madang Kabupaten Bogor Jawa Barat 16810 Indonesia,JAWA BARAT,BOGOR,BABAKAN MADANG,masjid,0.0,0.84037465
+7,19070,Masjid Baitul Makmur,BGE-M3,MASJID BAITUL MAKMUR,Rawamangun East Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA TIMUR,PULOGADUNG,masjid,4.6,0.84037465
+8,16550,Masjid Baitul Makmur,BGE-M3,Masjid Baitul Makmur,Jl Tanjung Gedong RT3/RW8 Tomang Kec Grogol petamburan Kota Jakarta Barat Daerah Khusus Ibukota Jakarta 11440 Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA BARAT,GROGOL PETAMBURAN,masjid,4.7,0.84037465
+9,15488,Masjid Baitul Makmur,BGE-M3,Masjid Baitul Makmur,Tanjung Priok North Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA UTARA,TANJUNG PRIOK,masjid,4.7,0.84037465
+10,11732,Masjid Baitul Makmur,BGE-M3,Masjid Baitul Makmur,Jl Perum PD Makmur A-1 RT 001%2F04 Gebang Raya Periuk Tangerang Banten RT002/RW001 Periuk Jaya Kec Periuk Kota Tangerang Banten 15131 Indonesia,BANTEN,KOTA TANGERANG,PERIUK,masjid,3.5,0.84037465

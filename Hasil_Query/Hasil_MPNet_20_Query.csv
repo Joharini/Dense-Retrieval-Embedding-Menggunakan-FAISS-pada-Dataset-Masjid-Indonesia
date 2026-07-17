@@ -1,0 +1,201 @@
+﻿rank,document_ID,query,model,name,address,provinsi,kabko,kecamatan,mosque_type,rating,similarity
+1,139036,Masjid Agung,MPNet,Masjid Agung Demak,Bintoro Demak Regency Central Java Indonesia,JAWA TENGAH,DEMAK,KARANGTENGAH,masjid,47.0,0.97783303
+2,132690,Masjid Agung,MPNet,Masjid Agung Demak,Bintoro Demak Regency Central Java Indonesia,JAWA TENGAH,DEMAK,BONANG,masjid,47.0,0.977833
+3,117363,Masjid Agung,MPNet,Masjid Agung Demak,Bintoro Demak Regency Central Java Indonesia,JAWA TENGAH,DEMAK,MRANGGEN,masjid,47.0,0.977833
+4,109964,Masjid Agung,MPNet,Masjid Agung Penajung, Jaganayan Surotrunan Kec Alian Kabupaten Kebumen Jawa Tengah 54352 Indonesia,JAWA TENGAH,KEBUMEN,ALIAN,masjid,47.0,0.977654
+5,62116,Masjid Agung,MPNet,Masjid agung,Cibentar Jatiwangi Majalengka Regency West Java 45454 Indonesia,JAWA BARAT,MAJALENGKA,JATIWANGI,masjid,0.0,0.9772501
+6,56290,Masjid Agung,MPNet,MASJID AGUNG,Jl Masjid Cilimus Kec Cilimus Kabupaten Kuningan Jawa Barat 45556 Indonesia,JAWA BARAT,KUNINGAN,CIGANDAMEKAR,masjid,4.3,0.9772501
+7,54916,Masjid Agung,MPNet,MASJID AGUNG,Jl Masjid Cilimus Kec Cilimus Kabupaten Kuningan Jawa Barat 45556 Indonesia,JAWA BARAT,KUNINGAN,CILIMUS,masjid,4.3,0.9772501
+8,51523,Masjid Agung,MPNet,Masjid Agung,Sindangrasa Ciamis Ciamis Regency West Java 46215 Indonesia,JAWA BARAT,CIAMIS,CIHAURBEUTI,masjid,4.8,0.9772501
+9,51003,Masjid Agung,MPNet,Masjid Agung,Sindangrasa Ciamis Ciamis Regency West Java 46215 Indonesia,JAWA BARAT,CIAMIS,CIAMIS,masjid,4.8,0.9772501
+10,50975,Masjid Agung,MPNet,Masjid Agung,Sukapancar Sukaresik Tasikmalaya Regency West Java 46418 Indonesia,JAWA BARAT,TASIKMALAYA,SUKARESIK,masjid,5.0,0.9772501
+1,242416,Masjid Istiqlal,MPNet,Masjid istiqlal,Mosque · Jl Pandegiling No258,JAWA TIMUR,KOTA SURABAYA,TEGALSARI,masjid,4.8,0.9921607
+2,169308,Masjid Istiqlal,MPNet,Masjid Istiqlal,Tempel Turi Kec Jetis Kabupaten Ponorogo Jawa Timur 63473 Indonesia,JAWA TIMUR,PONOROGO,JETIS,masjid,4.3,0.9921607
+3,150489,Masjid Istiqlal,MPNet,Masjid Istiqlal, Jl Kahuripan Utara Raya Sumber Kec Banjarsari Kota Surakarta Jawa Tengah 57138 Indonesia,JAWA TENGAH,KOTA SURAKARTA,BANJARSARI,masjid,5.0,0.9921607
+4,138439,Masjid Istiqlal,MPNet,Masjid Istiqlal, Dusun Wenoboyo Wonoboyo Dadapan Cemoro Kec Wonoboyo Kabupaten Temanggung Jawa Tengah 56266 Indonesia,JAWA TENGAH,TEMANGGUNG,WONOBOYO,masjid,0.0,0.9921607
+5,128777,Masjid Istiqlal,MPNet,Masjid Istiqlal, Julu Tlogorejo Kec Winong Kabupaten Pati Jawa Tengah 59181 Indonesia,JAWA TENGAH,PATI,WINONG,masjid,48.0,0.9921607
+6,121197,Masjid Istiqlal,MPNet,Masjid Istiqlal, Sokoalas Soka Karangdowo Klaten Regency Central Java 57464 Indonesia,JAWA TENGAH,KLATEN,KARANGDOWO,masjid,46.0,0.9921607
+7,116607,Masjid Istiqlal,MPNet,Masjid Istiqlal, Karangtengah Girirejo Kec Kaliangkrik Kabupaten Magelang Jawa Tengah 56153 Indonesia,JAWA TENGAH,MAGELANG,KALIANGKRIK,masjid,5.0,0.9921607
+8,101749,Masjid Istiqlal,MPNet,Masjid Istiqlal, Rejosari Kemiri Kec Mojosongo Kabupaten Boyolali Jawa Tengah 57482 Indonesia,JAWA TENGAH,BOYOLALI,MOJOSONGO,masjid,5.0,0.9921607
+9,166342,Masjid Istiqlal,MPNet,Masjid Istiqlaal, Kebur Kebun Kidul Argomulyo Cangkringan Sleman Regency Special Region of Yogyakarta 55583 Indonesia,DAERAH ISTIMEWA YOGYAKARTA,SLEMAN,CANGKRINGAN,mushola,44.0,0.98367643
+10,14380,Masjid Istiqlal,MPNet,Istiqlal Mosque,Pasar Baru Central Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA PUSAT,SAWAH BESAR,masjid,4.8,0.98315394
+1,236734,Masjid Raya Bandung,MPNet,Masjid Bandung,Bandung Tambelangan Kec Tambelangan Kabupaten Sampang Jawa Timur 69253 Indonesia,JAWA TIMUR,SAMPANG,TAMBELANGAN,masjid,5.0,0.8946945
+2,89022,Masjid Raya Bandung,MPNet,Masjid bandung,Cijaura Buahbatu Bandung City West Java 40287 Indonesia,JAWA BARAT,KOTA BANDUNG,BUAHBATU,masjid,5.0,0.8946945
+3,87590,Masjid Raya Bandung,MPNet,Masjid bandung,Citarum Bandung Wetan Bandung City West Java 40115 Indonesia,JAWA BARAT,KOTA BANDUNG,BANDUNG WETAN,masjid,5.0,0.89469445
+4,166811,Masjid Raya Bandung,MPNet,Masjid Mangunwinatan Yogyakarta, Kadipaten Kraton Yogyakarta City Special Region of Yogyakarta 55132 Indonesia,DAERAH ISTIMEWA YOGYAKARTA,KOTA YOGYAKARTA,KRATON,masjid,5.0,0.8920338
+5,166968,Masjid Raya Bandung,MPNet,Masjid Baitun Na'im Wirogunan- Yogyakarta, Jl Taman Siswa Wirogunan Kec Mergangsan Kota Yogyakarta Daerah Istimewa Yogyakarta 55151 Indonesia,DAERAH ISTIMEWA YOGYAKARTA,KOTA YOGYAKARTA,MERGANGSAN,mushola,46.0,0.8916489
+6,176682,Masjid Raya Bandung,MPNet,Masjid Baiturrahim Ngrobyong,Ngrobong Jiwut Kec Nglegok Kabupaten Blitar Jawa Timur 66181 Indonesia,JAWA TIMUR,BLITAR,NGLEGOK,masjid,4.6,0.89145696
+7,227923,Masjid Raya Bandung,MPNet,Masjid Tanjung rejo,Tanjungrejo Sidohasri Kec Kenduruan Kabupaten Tuban Jawa Timur 62363 Indonesia,JAWA TIMUR,TUBAN,KENDURUAN,masjid,5.0,0.89113706
+8,138558,Masjid Raya Bandung,MPNet,Masjid TPI Bandungharjo, Mulyorejo Bandungharjo Kec Donorojo Kabupaten Jepara Jawa Tengah 59454 Indonesia,JAWA TENGAH,JEPARA,DONOROJO,masjid,42.0,0.89005995
+9,31933,Masjid Raya Bandung,MPNet,Masjid Darussalam Gelarpadang-Bobojong,Gelarpadang Mekartanjung Kec Curugkembar Kabupaten Sukabumi Jawa Barat 43182 Indonesia,JAWA BARAT,SUKABUMI,CIDADAP,masjid,3.8,0.8884712
+10,131344,Masjid Raya Bandung,MPNet,Masjid Baitussalam Bandungsari, Bandungsari Kec Ngaringan Kabupaten Grobogan Jawa Tengah 58193 Indonesia,JAWA TENGAH,GROBOGAN,NGARINGAN,masjid,48.0,0.8879888
+1,43732,Masjid Al Ikhlas,MPNet,Masjid Al-Ikhlsa,Kp kudang Sukaresmi Kec Sukaresmi Kabupaten Garut Jawa Barat 44163 Indonesia,JAWA BARAT,GARUT,SUKARESMI,masjid,4.4,0.98568827
+2,119714,Masjid Al Ikhlas,MPNet,MASJID AL IKLHAS, pondok Kalimati Kec Juwangi Kabupaten Boyolali Jawa Tengah 57391 Indonesia,JAWA TENGAH,BOYOLALI,JUWANGI,masjid,5.0,0.9855148
+3,172644,Masjid Al Ikhlas,MPNet,Masjid al iklhas,Beji Tulungagung Regency East Java Indonesia,JAWA TIMUR,TULUNGAGUNG,BOYOLANGU,masjid,5.0,0.98551476
+4,166224,Masjid Al Ikhlas,MPNet,Masjid Al-Iklhas, Kaliurang Hargobinangun Kec Pakem Kabupaten Sleman Daerah Istimewa Yogyakarta 55582 Indonesia,DAERAH ISTIMEWA YOGYAKARTA,SLEMAN,PAKEM,masjid,46.0,0.98551476
+5,37718,Masjid Al Ikhlas,MPNet,masjid al iklhas,Bojongsoang Bandung Regency West Java Indonesia,JAWA BARAT,BANDUNG,DAYEUHKOLOT,masjid,4.7,0.98551476
+6,235234,Masjid Al Ikhlas,MPNet,Masjid AL - IKLHAS,Keleyan Kec Socah Kabupaten Bangkalan Jawa Timur 69161 Indonesia,JAWA TIMUR,BANGKALAN,SOCAH,masjid,5.0,0.98551464
+7,212757,Masjid Al Ikhlas,MPNet,Masjid Al-iklhas,Gondang Paringan Kec Jetis Kabupaten Mojokerto Jawa Timur 61352 Indonesia,JAWA TIMUR,MOJOKERTO,DAWARBLANDONG,masjid,4.4,0.98551464
+8,138568,Masjid Al Ikhlas,MPNet,Masjid Al Iklhas, Karang Anyar Banyumanis Kec Donorojo Kabupaten Jepara Jawa Tengah 59454 Indonesia,JAWA TENGAH,JEPARA,DONOROJO,masjid,48.0,0.98551464
+9,129083,Masjid Al Ikhlas,MPNet,masjid al iklhas, Jalan Dungus Karanganyar Plupuh Sragen Regency Central Java 57283 Indonesia,JAWA TENGAH,SRAGEN,PLUPUH,masjid,41.0,0.98551464
+10,2871,Masjid Al Ikhlas,MPNet,Masjid al ikahlas,Cisampang Gunungkencana Lebak Regency Banten 42354 Indonesia,BANTEN,LEBAK,GUNUNGKENCANA,masjid,0.0,0.9834737
+1,3223,Masjid Nurul Huda,MPNet,Mosque of Nurul Huda,Jl Multatuli Muara Ciujung Bar Kec Rangkasbitung Kabupaten Lebak Banten 42312 Indonesia,BANTEN,LEBAK,RANGKASBITUNG,masjid,5.0,0.9686551
+2,167347,Masjid Nurul Huda,MPNet,Masjid Nurrul Huda,RWLingkungan Baksari Ngawen I Semanten Pacitan Pacitan Regency East Java 63518 Indonesia,JAWA TIMUR,PACITAN,TULAKAN,masjid,4.4,0.96469647
+3,143645,Masjid Nurul Huda,MPNet,"Masjid ""Nurrul Huda""", Bantengsari Purwo Sari Kec Sukorejo Kabupaten Kendal Jawa Tengah 51363 Indonesia,JAWA TENGAH,KENDAL,SUKOREJO,masjid,48.0,0.96469647
+4,64741,Masjid Nurul Huda,MPNet,Masjid Nurrul Huda,Jl Desa Mekar Bakti Mekarbakti Kec Pamulihan Kabupaten Sumedang Jawa Barat 45365 Indonesia,JAWA BARAT,SUMEDANG,PAMULIHAN,masjid,4.9,0.96469647
+5,228730,Masjid Nurul Huda,MPNet,Masjid Nurul Husna,Wonorejo Ponco Suciharjo Kec Parengan Kabupaten Tuban Jawa Timur 62366 Indonesia,JAWA TIMUR,TUBAN,PARENGAN,masjid,5.0,0.9603204
+6,195167,Masjid Nurul Huda,MPNet,Masjid Nurul Husna,Jl Jambu Krajan Jemberlor Kec Patrang Kabupaten Jember Jawa Timur 68118 Indonesia,JAWA TIMUR,JEMBER,PATRANG,masjid,5.0,0.9603204
+7,75933,Masjid Nurul Huda,MPNet,Masjid Nurul Husna,none,JAWA BARAT,KARAWANG,LEMAHABANG,masjid,4.6,0.9603204
+8,45575,Masjid Nurul Huda,MPNet,Masjid nurul husna,Unnamed Road Cimahi Caringin Garut Regency West Java 44166 Indonesia,JAWA BARAT,GARUT,CARINGIN,masjid,5.0,0.9603204
+9,77993,Masjid Nurul Huda,MPNet,Masjid Nurul Husna,Mosque · Perumahan Taman Edelwis Jl Anggrek 3 No12 Blok B4,JAWA BARAT,BEKASI,TAMBUN UTARA,masjid,4.7,0.96032035
+10,17045,Masjid Nurul Huda,MPNet,Masjid Nurul Husna,Tegal Alur West Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA BARAT,KALIDERES,masjid,0.0,0.96032035
+1,236799,Masjid Jami,MPNet,MASJID JAMGALIS,Jamgalis Somber Kec Tambelangan Kabupaten Sampang Jawa Timur 69253 Indonesia,JAWA TIMUR,SAMPANG,TAMBELANGAN,masjid,5.0,0.96812254
+2,101703,Masjid Jami,MPNet,Masjid jamillah, Purwojati Kec Purwojati Kabupaten Banyumas Jawa Tengah 53175 Indonesia,JAWA TENGAH,BANYUMAS,PURWOJATI,masjid,0.0,0.9664242
+3,223638,Masjid Jami,MPNet,masjid jamidiniyah,Nglenguk Punjen Pelang Kidul Kec Kedunggalar Kabupaten Ngawi Jawa Timur 63254 Indonesia,JAWA TIMUR,NGAWI,KEDUNGGALAR,masjid,4.9,0.9611288
+4,73597,Masjid Jami,MPNet,Masjid Jammie Assalam,Gintungkerta Karawang West Java Indonesia,JAWA BARAT,KARAWANG,KLARI,masjid,5.0,0.9569518
+5,32560,Masjid Jami,MPNet,Masjid Jamhuri,Sukamaju Cibeber Cianjur Regency West Java 43262 Indonesia,JAWA BARAT,CIANJUR,CIBEBER,masjid,4.8,0.9504187
+6,41028,Masjid Jami,MPNet,Masjid Jami Al Jamilah,Jalan Ahmad Yani Kota Wetan Garut Sucikaler Kec Karangpawitan Kabupaten Garut Jawa Barat 44111 Indonesia,JAWA BARAT,GARUT,KARANGPAWITAN,masjid,4.8,0.9487188
+7,36040,Masjid Jami,MPNet,Masjid Jamie,Kp Gelar padang Jl Raya Cijati Cibodas Kec Cijati Kabupaten Cianjur Jawa Barat 43284 Indonesia,JAWA BARAT,CIANJUR,CIJATI,masjid,0.0,0.948475
+8,33485,Masjid Jami,MPNet,Masjid Jamie,Sukamulya Sukaluyu Cianjur Regency West Java 43284 Indonesia,JAWA BARAT,CIANJUR,SUKALUYU,masjid,0.0,0.948475
+9,33883,Masjid Jami,MPNet,Masjid jamie,Mekar Sari Cikalongkulon Cianjur Regency West Java 43291 Indonesia,JAWA BARAT,CIANJUR,CIKALONGKULON,masjid,0.0,0.9484749
+10,29015,Masjid Jami,MPNet,Masjid jamie,Jl Cirasamala Cihamerang Kec Kabandungan Kabupaten Sukabumi Jawa Barat 43368 Indonesia,JAWA BARAT,SUKABUMI,KABANDUNGAN,masjid,4.0,0.9484749
+1,194480,Mushola Al Hidayah,MPNet,Musholla Al-Hidayyah,Unnamed Road Ampo Dukuh Mencek Kec Sukorambi Kabupaten Jember Jawa Timur 68151 Indonesia,JAWA TIMUR,JEMBER,SUKORAMBI,musholla,0.0,0.9705557
+2,215060,Mushola Al Hidayah,MPNet,Musholla al-hidayyah,Unnamed Road Doko Kepuhdoko Tembelang Jombang Regency East Java 61452 Indonesia,JAWA TIMUR,JOMBANG,TEMBELANG,musholla,0.0,0.9705556
+3,81272,Mushola Al Hidayah,MPNet,MUSHOLLA AL-HIDAYYAH,Jayasampurna Bekasi Regency West Java Indonesia,JAWA BARAT,BEKASI,SERANG BARU,musholla,4.9,0.9705556
+4,115954,Mushola Al Hidayah,MPNet,Al Hidayah Mushola, Jl Tambakan Kembaran Sedayu Kec Muntilan Kabupaten Magelang Jawa Tengah 56412 Indonesia,JAWA TENGAH,MAGELANG,SRUMBUNG,mushola,5.0,0.9687081
+5,54967,Mushola Al Hidayah,MPNet,Mushala Al Hidayah,Gg Bhinneka Bandorasa Wetan Kec Cilimus Kabupaten Kuningan Jawa Barat 45556 Indonesia,JAWA BARAT,KUNINGAN,CILIMUS,masjid,0.0,0.9681422
+6,41254,Mushola Al Hidayah,MPNet,Mushala Al Hidayah,Jl Samanggen Wanajaya Kec Wanaraja Kabupaten Garut Jawa Barat 44183 Indonesia,JAWA BARAT,GARUT,WANARAJA,musala,0.0,0.9681422
+7,218963,Mushola Al Hidayah,MPNet,Mushala Al-Hidayah,Kradinan Madiun Regency East Java Indonesia,JAWA TIMUR,MADIUN,DOLOPO,islamic_center,5.0,0.96814215
+8,164949,Mushola Al Hidayah,MPNet,Mushola Al-Hidayah Mladri, Jl Bantulan Mladri Bantulan Margokaton Kec Seyegan Kabupaten Sleman Daerah Istimewa Yogyakarta 55561 Indonesia,DAERAH ISTIMEWA YOGYAKARTA,SLEMAN,SEYEGAN,musholla,43.0,0.9645947
+9,122814,Mushola Al Hidayah,MPNet,Musholah Al-Hidayyah, Gondang Manis Jumantoro Kec Jumapolo Kabupaten Karanganyar Jawa Tengah 57783 Indonesia,JAWA TENGAH,KARANGANYAR,JUMANTONO,mushola,0.0,0.9627092
+10,227825,Mushola Al Hidayah,MPNet,Mushola Al YAQIN,RT25/RW8 Mundu Wadang Kec Ngasem Kabupaten Bojonegoro Jawa Timur 62154 Indonesia,JAWA TIMUR,BOJONEGORO,GAYAM,mushola,0.0,0.96203035
+1,124544,Masjid Al Muttaqin,MPNet,Masjid Al-Mutaqien,Larangan Brebes Regency Central Java Indonesia,JAWA TENGAH,BREBES,BUMIAYU,masjid,46.0,0.9904309
+2,224157,Masjid Al Muttaqin,MPNet,Masjid Al-Mutaqien,Ngasem Bangunrejo Lor Kec Pitu Kabupaten Ngawi Jawa Timur 63252 Indonesia,JAWA TIMUR,NGAWI,PITU,masjid,4.6,0.99043083
+3,221337,Masjid Al Muttaqin,MPNet,Masjid Al-Mutaqien,Jalan Batik Kalitengah Sidomukti Plaosan Magetan Regency East Java 63361 Indonesia,JAWA TIMUR,MAGETAN,PLAOSAN,masjid,0.0,0.99043083
+4,163708,Masjid Al Muttaqin,MPNet,masjid al-mutaqien, Kalitekuk Kec Semin Kabupaten Gunungkidul Daerah Istimewa Yogyakarta 55854 Indonesia,DAERAH ISTIMEWA YOGYAKARTA,GUNUNGKIDUL,SEMIN,masjid,5.0,0.99043083
+5,163698,Masjid Al Muttaqin,MPNet,Masjid Al Mutaqien, Pendem Sumberejo Kec Semin Kabupaten Gunungkidul Daerah Istimewa Yogyakarta 55854 Indonesia,DAERAH ISTIMEWA YOGYAKARTA,GUNUNGKIDUL,SEMIN,masjid,5.0,0.99043083
+6,150374,Masjid Al Muttaqin,MPNet,Masjid Al-Mutaqien,Larangan Brebes Regency Central Java Indonesia,JAWA TENGAH,BREBES,LARANGAN,masjid,46.0,0.99043083
+7,126126,Masjid Al Muttaqin,MPNet,Masjid Al-Mutaqien, Dusun Waduk Kerjo Lor Kec Ngadirojo Kabupaten Wonogiri Jawa Tengah 57681 Indonesia,JAWA TENGAH,WONOGIRI,NGADIROJO,masjid,43.0,0.99043083
+8,99658,Masjid Al Muttaqin,MPNet,Masjid Al-Mutaqien, Sawangan Kec Leksono Kabupaten Wonosobo Jawa Tengah 56362 Indonesia,JAWA TENGAH,WONOSOBO,LEKSONO,masjid,47.0,0.99043083
+9,3704,Masjid Al Muttaqin,MPNet,MASJID AL MUTAQIEN,Padasuka Lebak Regency Banten Indonesia,BANTEN,LEBAK,CURUGBITUNG,masjid,4.5,0.99043083
+10,150634,Masjid Al Muttaqin,MPNet,MASJID AL-MUTTQIN, Bangetayu Wetan Genuk Semarang City Central Java 50115 Indonesia,JAWA TENGAH,KOTA SEMARANG,GENUK,masjid,41.0,0.9877848
+1,113310,Masjid Baiturrahman,MPNet,masjid baiturrrahman, Bogem Kec Japah Kabupaten Blora Jawa Tengah 58527 Indonesia,JAWA TENGAH,BLORA,JAPAH,masjid,4.0,0.9781327
+2,62697,Masjid Baiturrahman,MPNet,Masjid Baiturrahman,Putridalem Majalengka Regency West Java Indonesia,JAWA BARAT,MAJALENGKA,JATITUJUH,masjid,0.0,0.97597635
+3,55431,Masjid Baiturrahman,MPNet,Masjid Baiturrahman,Sagarahiang Darma Kuningan Regency West Java 45562 Indonesia,JAWA BARAT,KUNINGAN,DARMA,masjid,5.0,0.97597635
+4,50467,Masjid Baiturrahman,MPNet,Masjid Baiturrahman,Jl Tj RT2/RW5 Tanjungpura Kec Rajapolah Kabupaten Tasikmalaya Jawa Barat 46175 Indonesia,JAWA BARAT,TASIKMALAYA,RAJAPOLAH,masjid,4.3,0.97597635
+5,43756,Masjid Baiturrahman,MPNet,Masjid Baiturrahman,Cintadamai Sukaresmi Garut Regency West Java 44163 Indonesia,JAWA BARAT,GARUT,SUKARESMI,masjid,0.0,0.97597635
+6,43326,Masjid Baiturrahman,MPNet,Masjid Baiturrahman,Sukahurip Cigedug Garut Regency West Java 44116 Indonesia,JAWA BARAT,GARUT,CIGEDUG,masjid,2.0,0.97597635
+7,42744,Masjid Baiturrahman,MPNet,Masjid Baiturrahman,Kersamanah Garut Regency West Java 44185 Indonesia,JAWA BARAT,GARUT,KERSAMANAH,masjid,4.3,0.97597635
+8,39513,Masjid Baiturrahman,MPNet,Masjid Baiturrahman,Cibeureum Kertasari Bandung Regency West Java 40386 Indonesia,JAWA BARAT,BANDUNG,KERTASARI,masjid,0.0,0.97597635
+9,19891,Masjid Baiturrahman,MPNet,Masjid Baiturrahman,Jl Mustang RT3/RW4 Halim Perdanakusuma Kec Makasar Kota Jakarta Timur Daerah Khusus Ibukota Jakarta 13610 Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA TIMUR,MAKASAR,masjid,4.6,0.97597635
+10,15735,Masjid Baiturrahman,MPNet,Masjid Baiturrahman,Sukapura North Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA UTARA,KOJA,masjid,4.7,0.97597635
+1,107463,Masjid At Taqwa,MPNet,Masjid At Taqi,Miricinde Wonogiri Regency Central Java Indonesia,JAWA TENGAH,WONOGIRI,BULUKERTO,masjid,5.0,0.98007333
+2,1406,Masjid At Taqwa,MPNet,Masjid At Taqwa,Mandalawangi Mandalawangi Cikoneng Pandeglang Kabupaten Pandeglang Banten 42261 Indonesia,BANTEN,PANDEGLANG,MANDALAWANGI,masjid,3.0,0.9771276
+3,1081,Masjid At Taqwa,MPNet,Masjid At Taqwa,Unnamed Road Parigi Kec Saketi Kabupaten Pandeglang Banten 42273 Indonesia,BANTEN,PANDEGLANG,SAKETI,masjid,4.4,0.9771276
+4,1021,Masjid At Taqwa,MPNet,Masjid At-Taqwa,Pasir Waru Kec Menes Kabupaten Pandeglang Banten 42262 Indonesia,BANTEN,PANDEGLANG,MENES,masjid,4.6,0.9771276
+5,952,Masjid At Taqwa,MPNet,Masjid At-taqwa,Pasirsedang Picung Pandeglang Regency Banten 42275 Indonesia,BANTEN,PANDEGLANG,PICUNG,masjid,0.0,0.9771276
+6,835,Masjid At Taqwa,MPNet,Masjid At Taqwa,Sukamaju Picung Kadupandak Kec Picung Kabupaten Pandeglang Banten 42213 Indonesia,BANTEN,PANDEGLANG,PICUNG,masjid,0.0,0.9771276
+7,696,Masjid At Taqwa,MPNet,Masjid At-taqwa,Pasir jambu Bojong Mekarsari Pandeglang Kabupaten Pandeglang Banten 42274 Indonesia,BANTEN,PANDEGLANG,BOJONG,masjid,0.0,0.9771276
+8,552,Masjid At Taqwa,MPNet,Masjid At-Taqwa,Kampung Pasanggrahan Munjul Pandeglang Regency Banten 42276 Indonesia,BANTEN,PANDEGLANG,MUNJUL,masjid,0.0,0.9771276
+9,504,Masjid At Taqwa,MPNet,Masjid at-Taqwa,Pasanggrahan Munjul Pandeglang Regency Banten 42276 Indonesia,BANTEN,PANDEGLANG,MUNJUL,masjid,5.0,0.9771276
+10,471,Masjid At Taqwa,MPNet,Masjid At Taqwa,Genjah Angsana Padamulya Kec Angsana Kabupaten Pandeglang Banten 42277 Indonesia,BANTEN,PANDEGLANG,ANGSANA,masjid,0.0,0.9771276
+1,1744,Masjid Al Falah,MPNet,Masjid Al Falah,Cibodas Banjar Citalahab Kec Pandeglang Kabupaten Pandeglang Banten 42252 Indonesia,BANTEN,PANDEGLANG,BANJAR,masjid,0.0,0.9953324
+2,1504,Masjid Al Falah,MPNet,Masjid Al-Falah,Kupahandap Cimanuk Pandeglang Regency Banten 42271 Indonesia,BANTEN,PANDEGLANG,MANDALAWANGI,masjid,4.4,0.9953324
+3,1478,Masjid Al Falah,MPNet,Masjid Al Falah,Sirnagalih Mandalawangi Cikoneng Pandeglang Kabupaten Pandeglang Banten 42261 Indonesia,BANTEN,PANDEGLANG,MANDALAWANGI,masjid,0.0,0.9953324
+4,1039,Masjid Al Falah,MPNet,Masjid Al-Falah,Mosque ·  Kampung Rengat Hilir Menes,BANTEN,PANDEGLANG,MENES,masjid,0.0,0.9953324
+5,931,Masjid Al Falah,MPNet,Masjid Al Falah,Pasirsedang Picung Pandeglang Regency Banten 42275 Indonesia,BANTEN,PANDEGLANG,PICUNG,masjid,0.0,0.9953324
+6,494,Masjid Al Falah,MPNet,Masjid Al-Falah,Kampung Sudimana Munjul Kec Munjul Kabupaten Pandeglang Banten 42276 Indonesia,BANTEN,PANDEGLANG,MUNJUL,masjid,0.0,0.9953324
+7,491,Masjid Al Falah,MPNet,Masjid Al Falah,Gunungbatu Munjul Pandeglang Regency Banten 42276 Indonesia,BANTEN,PANDEGLANG,MUNJUL,masjid,5.0,0.9953324
+8,389,Masjid Al Falah,MPNet,Masjid Al falah,Karet Panimbang Tanjungjaya Kec Panimbang Kabupaten Pandeglang Banten 42281 Indonesia,BANTEN,PANDEGLANG,PANIMBANG,masjid,0.0,0.9953324
+9,250,Masjid Al Falah,MPNet,Masjid Al Falah,Malangsari Cikeusik Kec Cikeusik Kabupaten Pandeglang Banten 42286 Indonesia,BANTEN,PANDEGLANG,CIKEUSIK,masjid,0.0,0.9953324
+10,218,Masjid Al Falah,MPNet,Masjid AL- FALAH,Nanggala Pandeglang Regency Banten Indonesia,BANTEN,PANDEGLANG,CIKEUSIK,masjid,4.7,0.9953324
+1,14665,Masjid Istiqlal Jakarta,MPNet,Masjid Al istiaanah jakarta,RT10/RW9 Kramat Senen Central Jakarta City Jakarta 10540 Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA PUSAT,SENEN,masjid,4.3,0.9353829
+2,17550,Masjid Istiqlal Jakarta,MPNet,Masjid Baitulmaqdis Indonesia,East Tebet South Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA SELATAN,TEBET,masjid,5.0,0.93297094
+3,14409,Masjid Istiqlal Jakarta,MPNet,"Masjid Jami Nurul Islam, Karang Anyar, Jakarta Pusat",Karang Anyar Central Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA PUSAT,SAWAH BESAR,masjid,5.0,0.9276157
+4,49329,Masjid Istiqlal Jakarta,MPNet,Masjid-E-Salam Indonesia,Jl Asri Residence RT022/RW005 Cintaraja Kec Singaparna Kabupaten Tasikmalaya Jawa Barat 46417 Indonesia,JAWA BARAT,TASIKMALAYA,SINGAPARNA,masjid,0.0,0.91969043
+5,19728,Masjid Istiqlal Jakarta,MPNet,Masjid An-Nur Jakarta Timur,Mosque · Jl Delima I Blok 13 Rt 005/003 Perumnas Klender RT5/RW3,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA TIMUR,DUREN SAWIT,masjid,4.7,0.9187661
+6,19007,Masjid Istiqlal Jakarta,MPNet,Masjid Jayakarta,Jatinegara East Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA TIMUR,PULOGADUNG,masjid,4.0,0.9185438
+7,14388,Masjid Istiqlal Jakarta,MPNet,Masjid Jami Jayakarta,South Mangga Dua Central Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA PUSAT,SAWAH BESAR,masjid,4.7,0.91582674
+8,158770,Masjid Istiqlal Jakarta,MPNet,Masjid Indonesia Bertauhid, Karangkobar Wetan Karangkobar Kec Karangkobar Kab Banjarnegara Jawa Tengah 53453 Indonesia,JAWA TENGAH,BANJARNEGARA,BANJARNEGARA,masjid,5.0,0.9147145
+9,105399,Masjid Istiqlal Jakarta,MPNet,Masjid Indonesia Bertauhid, Karangkobar Wetan Karangkobar Kec Karangkobar Kab Banjarnegara Jawa Tengah 53453 Indonesia,JAWA TENGAH,BANJARNEGARA,KARANGKOBAR,masjid,5.0,0.9147145
+10,64550,Masjid Istiqlal Jakarta,MPNet,Masjid Al-Awal Indonesia,Gunungmanik Sumedang Regency West Java Indonesia,JAWA BARAT,SUMEDANG,TANJUNGSARI,masjid,5.0,0.9146545
+1,46506,Masjid Agung Tasikmalaya,MPNet,Masjid Agung Karangnunggal Tasela,Karangnunggal Tasikmalaya Regency West Java 46186 Indonesia,JAWA BARAT,TASIKMALAYA,KARANGNUNGGAL,masjid,0.0,0.9240266
+2,144551,Masjid Agung Tasikmalaya,MPNet,Masjid Baitut Taqwakaranganom, Tambak Rojo Karanganom Kec Weleri Kabupaten Kendal Jawa Tengah 51355 Indonesia,JAWA TENGAH,KENDAL,ROWOSARI,masjid,48.0,0.9085118
+3,120487,Masjid Agung Tasikmalaya,MPNet,Masjid Baitut Taqwakaranganom, Tambak Rojo Karanganom Kec Weleri Kabupaten Kendal Jawa Tengah 51355 Indonesia,JAWA TENGAH,KENDAL,WELERI,masjid,48.0,0.9085118
+4,47040,Masjid Agung Tasikmalaya,MPNet,"Masjid Agung Cibalong, Kabupaten Tasikmalaya",Girikencana Parungponteng Tasikmalaya Regency West Java 46185 Indonesia,JAWA BARAT,TASIKMALAYA,CIBALONG,masjid,4.5,0.90779704
+5,95754,Masjid Agung Tasikmalaya,MPNet,MASJID AGUNG AT TAQWA KUTOWINANGUN,Kutowinangun Kebumen Regency Central Java Indonesia,JAWA TENGAH,KEBUMEN,KUTOWINANGUN,masjid,46.0,0.90476
+6,108500,Masjid Agung Tasikmalaya,MPNet,Masjid AT TAQWA Tawangmangu, Jalan Raya Nano Tawangmangu Karanganyar Regency Central Java 57792 Indonesia,JAWA TENGAH,KARANGANYAR,TAWANGMANGU,masjid,47.0,0.9040233
+7,112233,Masjid Agung Tasikmalaya,MPNet,Masjid Agung Tawangsari, Ketawang Tawangsari Kec Kaligesing Kabupaten Purworejo Jawa Tengah 54175 Indonesia,JAWA TENGAH,PURWOREJO,KALIGESING,masjid,5.0,0.90101635
+8,105236,Masjid Agung Tasikmalaya,MPNet,Masjid Agung Tawangsari, Dua Kateguhan Kec Tawangsari Kabupaten Sukoharjo Jawa Tengah 57561 Indonesia,JAWA TENGAH,SUKOHARJO,TAWANGSARI,masjid,46.0,0.90101635
+9,112379,Masjid Agung Tasikmalaya,MPNet,Masjid Besar At-Taqwa Kecamatan Randublatung, Randublatung Kec Randublatung Kabupaten Blora Jawa Tengah 58382 Indonesia,JAWA TENGAH,BLORA,RANDUBLATUNG,masjid,47.0,0.9007609
+10,205645,Masjid Agung Tasikmalaya,MPNet,Masjid Tawang Rejo,Jasem Tawang Rejo Kec Pandaan Pasuruan Jawa Timur 67156 Indonesia,JAWA TIMUR,PASURUAN,PANDAAN,masjid,4.8,0.89839494
+1,180802,Masjid Agung Menes,MPNet,Masjid Besar Nurul Mannan,Jl Raya Kediri - Nganjuk Banyakan Kec Banyakan Kabupaten Kediri Jawa Timur 64157 Indonesia,JAWA TIMUR,KEDIRI,BANYAKAN,masjid,4.5,0.8556737
+2,117406,Masjid Agung Menes,MPNet,Masjid Agung Derso, Derso Dawung Kec Tegalrejo Kabupaten Magelang Jawa Tengah 56192 Indonesia,JAWA TENGAH,MAGELANG,TEGALREJO,masjid,49.0,0.8501037
+3,64055,Masjid Agung Menes,MPNet,Masjid Agung Situraja,Situraja Sumedang Regency West Java Indonesia,JAWA BARAT,SUMEDANG,SITURAJA,masjid,4.6,0.8464198
+4,83590,Masjid Agung Menes,MPNet,Masjid agung cimarel,Sukaresmi Rongga West Bandung Regency West Java 40556 Indonesia,JAWA BARAT,BANDUNG BARAT,RONGGA,masjid,5.0,0.84608227
+5,178817,Masjid Agung Menes,MPNet,Masjid Besar Assholihin-Semen,Semen Kediri Regency East Java Indonesia,JAWA TIMUR,KEDIRI,SEMEN,masjid,4.8,0.84505844
+6,178678,Masjid Agung Menes,MPNet,Masjid Besar Assholihin-Semen,Semen Kediri Regency East Java Indonesia,JAWA TIMUR,KEDIRI,SEMEN,masjid,4.8,0.84505844
+7,119608,Masjid Agung Menes,MPNet,Masjid Agung Gowah, Gowah Balong Bringinsari Sukorejo Kendal Regency Central Java 51363 Indonesia,JAWA TENGAH,KENDAL,SUKOREJO,masjid,5.0,0.843731
+8,186039,Masjid Agung Menes,MPNet,Masjid Agung Annur,Bululawang Malang Regency East Java Indonesia,JAWA TIMUR,MALANG,BULULAWANG,masjid,4.7,0.84284604
+9,113827,Masjid Agung Menes,MPNet,Masjid Agung Bendo, Bendo Kec Sluke Kabupaten Rembang Jawa Tengah 59272 Indonesia,JAWA TENGAH,REMBANG,SLUKE,masjid,42.0,0.84241086
+10,116092,Masjid Agung Menes,MPNet,Baitul Mannan Mosque,Kalipucang Wetan Jepara Regency Central Java Indonesia,JAWA TENGAH,JEPARA,WELAHAN,masjid,49.0,0.84229994
+1,2770,Masjid Nurul Iman,MPNet,MASJID NURUL IMMAN,Leuwidamar Lebak Regency Banten 42362 Indonesia,BANTEN,LEBAK,LEUWIDAMAR,masjid,5.0,0.95616597
+2,2744,Masjid Nurul Iman,MPNet,MASJID NURUL IMMAN,none,BANTEN,LEBAK,LEUWIDAMAR,masjid,5.0,0.95616597
+3,206272,Masjid Nurul Iman,MPNet,Mosque of Nurul Iman,Waru Lunyuh Oro-Oro Ombokulon Kec Rembang Pasuruan Jawa Timur 67152 Indonesia,JAWA TIMUR,PASURUAN,REMBANG,masjid,5.0,0.9536765
+4,89021,Masjid Nurul Iman,MPNet,Masjid Nurul Izza,Margasari Bandung City West Java Indonesia,JAWA BARAT,KOTA BANDUNG,BUAHBATU,masjid,4.3,0.9348384
+5,89386,Masjid Nurul Iman,MPNet,Masjid Baiturrohman Imdad,Palasari Cibiru Bandung City West Java 40615 Indonesia,JAWA BARAT,KOTA BANDUNG,CIBIRU,masjid,4.6,0.9337014
+6,109304,Masjid Nurul Iman,MPNet,Masjid Baiturohman Nurul ikhsan, Jaraksari Klirong Kec Klirong Kabupaten Kebumen Jawa Tengah 54381 Indonesia,JAWA TENGAH,KEBUMEN,KLIRONG,masjid,5.0,0.93188953
+7,165663,Masjid Nurul Iman,MPNet,Masjid Iman Nur (ꦩꦱ꧀ꦗꦶꦣ꧀ꦆꦩꦤ꧀ꦤꦸꦂ),Wedomartani Sleman Regency Special Region of Yogyakarta Indonesia,DAERAH ISTIMEWA YOGYAKARTA,SLEMAN,NGEMPLAK,masjid,48.0,0.9311127
+8,76639,Masjid Nurul Iman,MPNet,Masjid Nurul Ikhwan,Desa Krajan Pangulah Sel Kec Kota Baru Karawang Jawa Barat 41374 Indonesia,JAWA BARAT,KARAWANG,KOTA BARU,masjid,4.5,0.9301914
+9,29293,Masjid Nurul Iman,MPNet,Masjid Nurul ikhwan,Jampang Kulon-Surade Ciparay Kec Jampang Kulon Kabupaten Sukabumi Jawa Barat 43178 Indonesia,JAWA BARAT,SUKABUMI,JAMPANGKULON,masjid,5.0,0.9301913
+10,28211,Masjid Nurul Iman,MPNet,Masjid Nurul-Ikhwan,Cihanjawar Nagrak Sukabumi Regency West Java 43356 Indonesia,JAWA BARAT,SUKABUMI,NAGRAK,masjid,5.0,0.9301913
+1,201571,Islamic Center,MPNet,Islamic Center,Capgawen Kedungwuni Tim Kec Kedungwuni Kabupaten Pekalongan Jawa Tengah 51173 Indonesia,JAWA TIMUR,SITUBONDO,MANGARAN,islamic_center,4.5,0.99123
+2,165251,Islamic Center,MPNet,Islamic Center, Prenggan Kotagede Yogyakarta City Special Region of Yogyakarta 55172 Indonesia,DAERAH ISTIMEWA YOGYAKARTA,SLEMAN,BERBAH,islamic_center,5.0,0.99123
+3,161424,Islamic Center,MPNet,Islamic Center, Prenggan Kotagede Yogyakarta City Special Region of Yogyakarta 55172 Indonesia,DAERAH ISTIMEWA YOGYAKARTA,BANTUL,BANGUNTAPAN,islamic_center,5.0,0.99123
+4,154928,Islamic Center,MPNet,Islamic Center, Dusun Tengah Maos Lor Kec Maos Kabupaten Cilacap Jawa Tengah 53272 Indonesia,JAWA TENGAH,CILACAP,MAOS,islamic_center,41.0,0.99123
+5,150978,Islamic Center,MPNet,Islamic center,none,JAWA TENGAH,BREBES,SALEM,islamic_center,44.0,0.99123
+6,124300,Islamic Center,MPNet,Islamic center,Pasar Batang Brebes Regency Central Java Indonesia,JAWA TENGAH,BREBES,BANTARKAWUNG,islamic_center,44.0,0.99123
+7,123770,Islamic Center,MPNet,Islamic Center, Gg Diponegoro 2 Mulyoharjo Kec Pemalang Kabupaten Pemalang Jawa Tengah 52313 Indonesia,JAWA TENGAH,PEMALANG,ULUJAMI,islamic_center,0.0,0.99123
+8,113735,Islamic Center,MPNet,Islamic Center, Jl Pemuda Kedungdoro Leteh Kec Rembang Kabupaten Rembang Jawa Tengah 59217 Indonesia,JAWA TENGAH,REMBANG,SULANG,islamic_center,0.0,0.99123
+9,94567,Islamic Center,MPNet,ISLAMIC CENTER,Jl Cidugaleun Tanjungjaya Kec Cisaga Kabupaten Ciamis Jawa Barat 46386 Indonesia,JAWA BARAT,KOTA BANJAR,PATARUMAN,islamic_center,0.0,0.99123
+10,14210,Islamic Center,MPNet,Islamic Center,Jl Almanar Angsau Kec Pelaihari Kabupaten Tanah Laut Kalimantan Selatan 70812 Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,ADMINISTRASI KEPULAUAN SERIBU,KEPULAUAN SERIBU SELATAN,islamic_center,4.5,0.99123
+1,45056,Masjid Al Hikmah,MPNet,Masjid AL HIKHMAH,RT/02/RW/12 Mekarjaya Kec Bungbulang Kabupaten Garut Jawa Barat 44165 Indonesia,JAWA BARAT,GARUT,BUNGBULANG,masjid,0.0,0.9932628
+2,218498,Masjid Al Hikmah,MPNet,Masjid Al Hikhmah,Banggle Lengkong Hutan Sumbermiri Nganjuk Kabupaten Nganjuk Jawa Timur 64393 Indonesia,JAWA TIMUR,NGANJUK,LENGKONG,masjid,0.0,0.99326277
+3,57750,Masjid Al Hikmah,MPNet,Masjid Al Hikayah,Perumahan Bale Agung Bernessa Blok B Banjarwangunan Kec Mundu Kabupaten Cirebon Jawa Barat 45173 Indonesia,JAWA BARAT,CIREBON,MUNDU,masjid,5.0,0.9885147
+4,24878,Masjid Al Hikmah,MPNet,MASJID AL-HIIKMAH,Cisarua Bogor Regency West Java Indonesia,JAWA BARAT,BOGOR,CISARUA,masjid,5.0,0.9869951
+5,84718,Masjid Al Hikmah,MPNet,Masjid Al-Hidmah,Jayasari Pangandaran Regency West Java Indonesia,JAWA BARAT,PANGANDARAN,LANGKAPLANCAR,masjid,5.0,0.9803326
+6,206652,Masjid Al Hikmah,MPNet,masjid al hikma,Masangan Paras Rejo Kec Pohjentrek Pasuruan Jawa Timur 67171 Indonesia,JAWA TIMUR,PASURUAN,POHJENTREK,masjid,3.7,0.9801052
+7,210445,Masjid Al Hikmah,MPNet,Masjid Al-Hibah,Sedati Gede Sidoarjo Regency East Java Indonesia,JAWA TIMUR,SIDOARJO,SEDATI,masjid,4.4,0.9771054
+8,57665,Masjid Al Hikmah,MPNet,Masjid Al Hikmag,Rawaurip Pangenan Cirebon West Java 45182 Indonesia,JAWA BARAT,CIREBON,PANGENAN,masjid,0.0,0.9764585
+9,84450,Masjid Al Hikmah,MPNet,Masjid al hilal,Dusun Cireuma Kertamukti Kec Cimerak Kab Pangandaran Jawa Barat 46395 Indonesia,JAWA BARAT,PANGANDARAN,CIMERAK,masjid,3.0,0.97521394
+10,78215,Masjid Al Hikmah,MPNet,Masjid Al-hilal,Mangunjaya Bekasi Regency West Java Indonesia,JAWA BARAT,BEKASI,TAMBUN SELATAN,masjid,4.9,0.97521394
+1,239010,Masjid Al Amin,MPNet,Masjid Al Amina,Kolor Sumenep Regency East Java Indonesia,JAWA TIMUR,SUMENEP,GANDING,masjid,4.9,0.96738124
+2,156829,Masjid Al Amin,MPNet,Masjid Al Aminah,Gandatapa Banyumas Regency Central Java Indonesia,JAWA TENGAH,BANYUMAS,SUMBANG,masjid,46.0,0.967308
+3,83802,Masjid Al Amin,MPNet,Masjid Al Aminin,Kp Pasirliut RT04/RW07 Ranca Senggang Kec Sindangkerta Kabupaten Bandung Barat Jawa Barat 40563 Indonesia,JAWA BARAT,BANDUNG BARAT,SINDANGKERTA,masjid,5.0,0.967137
+4,30485,Masjid Al Amin,MPNet,Masjid Al-Aminiyyah,Cikole Sukabumi City West Java Indonesia,JAWA BARAT,SUKABUMI,SUKABUMI,masjid,4.2,0.9645753
+5,196049,Masjid Al Amin,MPNet,Mosque of al-Amin,Gambangan Bondowoso Regency East Java Indonesia,JAWA TIMUR,JEMBER,SUKOWONO,masjid,4.4,0.9633231
+6,90667,Masjid Al Amin,MPNet,Masjid Al Amin,Jl Ahmad Yani RT001/RW005 Marga Jaya Kec Bekasi Sel Kota Bks Jawa Barat 17141 Indonesia,JAWA BARAT,KOTA BEKASI,BEKASI SELATAN,masjid,4.7,0.95560837
+7,89548,Masjid Al Amin,MPNet,Masjid AL AMIN,Pasirwangi Bandung City West Java Indonesia,JAWA BARAT,KOTA BANDUNG,UJUNGBERUNG,masjid,0.0,0.95560837
+8,63941,Masjid Al Amin,MPNet,Masjid Al Amin,Jayamekar Cibugel Sumedang Regency West Java 45375 Indonesia,JAWA BARAT,SUMEDANG,CIBUGEL,masjid,0.0,0.95560837
+9,52774,Masjid Al Amin,MPNet,Masjid Al Amin,Sukahurip Pamarican Ciamis Regency West Java 46382 Indonesia,JAWA BARAT,CIAMIS,PAMARICAN,masjid,4.4,0.95560837
+10,40193,Masjid Al Amin,MPNet,Masjid Al amin,Sudi Bandung Regency West Java Indonesia,JAWA BARAT,BANDUNG,IBUN,masjid,0.0,0.95560837
+1,187796,Masjid Darussalam,MPNet,Darussalam Mosque,Jl Raya Karangjuwet Karang Juwet Bonowarih Kec Karang Ploso Kabupaten Malang Jawa Timur 65152 Indonesia,JAWA TIMUR,MALANG,KARANGPLOSO,masjid,4.6,0.9844035
+2,187590,Masjid Darussalam,MPNet,Darussalam Mosque,Mulyoagung Malang Regency East Java Indonesia,JAWA TIMUR,MALANG,DAU,masjid,4.9,0.9844035
+3,187587,Masjid Darussalam,MPNet,Darussalam Mosque,Jl Tirto Rahayu Dusun Bend Landungsari Kec Dau Kabupaten Malang Jawa Timur 65151 Indonesia,JAWA TIMUR,MALANG,DAU,masjid,4.8,0.9844035
+4,187074,Masjid Darussalam,MPNet,Darussalam Mosque,Jl Garuda Bendo Karangpandan Kec Pakisaji Kabupaten Malang Jawa Timur 65162 Indonesia,JAWA TIMUR,MALANG,PAKISAJI,masjid,4.8,0.9844035
+5,173896,Masjid Darussalam,MPNet,Darussalam Mosque,Jangglengan Pulotondo Ngunut Tulungagung Regency East Java 66292 Indonesia,JAWA TIMUR,TULUNGAGUNG,NGUNUT,masjid,3.0,0.9844035
+6,169587,Masjid Darussalam,MPNet,Darussalam Mosque,Area Sawah/Kebun Ngampel Kec Balong Kabupaten Ponorogo Jawa Timur 63461 Indonesia,JAWA TIMUR,PONOROGO,BALONG,masjid,5.0,0.9844035
+7,162837,Masjid Darussalam,MPNet,Darussalam Mosque, Macan Mati Girimulyo Kec Panggang Kabupaten Gunungkidul Daerah Istimewa Yogyakarta 55872 Indonesia,DAERAH ISTIMEWA YOGYAKARTA,GUNUNGKIDUL,PANGGANG,masjid,46.0,0.9844035
+8,20552,Masjid Darussalam,MPNet,Darussalam Mosque,Ciangsana Bogor Regency West Java Indonesia,JAWA BARAT,BOGOR,GUNUNGPUTRI,masjid,4.8,0.9844035
+9,20543,Masjid Darussalam,MPNet,Darussalam Mosque,Cicadas Gunung Putri Bogor Regency West Java 16964 Indonesia,JAWA BARAT,BOGOR,GUNUNGPUTRI,masjid,4.4,0.9844035
+10,18435,Masjid Darussalam,MPNet,Darussalam Mosque,Senayan South Jakarta City Jakarta Indonesia,DAERAH KHUSUS IBUKOTA JAKARTA,KOTA ADMINISTRASI JAKARTA SELATAN,KEBAYORAN BARU,masjid,4.0,0.9844035
+1,199835,Masjid Baitul Makmur,MPNet,Masjid Baitul Makmun,Sumber Kemuning Timur Tamanan Gontungan Tamanan Kec Bondowoso Kabupaten Bondowoso Jawa Timur 68263 Indonesia,JAWA TIMUR,BONDOWOSO,TAMANAN,masjid,0.0,0.97868395
+2,173892,Masjid Baitul Makmur,MPNet,Masjid Baitul Makruf,Samir Ngunut Selokerto Selorejo Campurdarat Kabupaten Tulungagung Jawa Timur 66292 Indonesia,JAWA TIMUR,TULUNGAGUNG,NGUNUT,masjid,5.0,0.97463477
+3,213689,Masjid Baitul Makmur,MPNet,Masjid Baitul Maab,Jambangan Latsari Kec Mojowarno Kabupaten Jombang Jawa Timur 61475 Indonesia,JAWA TIMUR,JOMBANG,BARENG,masjid,5.0,0.9710258
+4,202864,Masjid Baitul Makmur,MPNet,Masjid Baitul Makdis,Balongan Sogaan Kec Pakuniran Kabupaten Probolinggo Jawa Timur 67292 Indonesia,JAWA TIMUR,PROBOLINGGO,PAKUNIRAN,masjid,2.0,0.9701862
+5,131989,Masjid Baitul Makmur,MPNet,Masjid Baitul Mauunah,Bangsri Jepara Regency Central Java Indonesia,JAWA TENGAH,JEPARA,BANGSRI,masjid,5.0,0.9696281
+6,60190,Masjid Baitul Makmur,MPNet,Masjid Baitul Mahtadiin,Dusun 3 Guwa Lor Kec Kaliwedi Kabupaten Cirebon Jawa Barat 45165 Indonesia,JAWA BARAT,CIREBON,KALIWEDI,masjid,0.0,0.9685626
+7,169428,Masjid Baitul Makmur,MPNet,Masjid Baitul Maunah,Siman Ponorogo Regency East Java Indonesia,JAWA TIMUR,PONOROGO,SIMAN,masjid,5.0,0.9685235
+8,118231,Masjid Baitul Makmur,MPNet,Masjid Baitul Maunah, Sepet Manggis Mojosongo Sepet Manggis Kec Boyolali Kabupaten Boyolali Jawa Tengah 57322 Indonesia,JAWA TENGAH,BOYOLALI,MOJOSONGO,masjid,47.0,0.9685235
+9,118145,Masjid Baitul Makmur,MPNet,Masjid Baitul Maunah, Sepet Manggis Mojosongo Sepet Manggis Kec Boyolali Kabupaten Boyolali Jawa Tengah 57322 Indonesia,JAWA TENGAH,BOYOLALI,BOYOLALI,masjid,47.0,0.9685235
+10,101602,Masjid Baitul Makmur,MPNet,Masjid Baitul Maunah, Sepet Manggis Mojosongo Sepet Manggis Kec Boyolali Kabupaten Boyolali Jawa Tengah 57322 Indonesia,JAWA TENGAH,BOYOLALI,CEPOGO,masjid,47.0,0.9685235
